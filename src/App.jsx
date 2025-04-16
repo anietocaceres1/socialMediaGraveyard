@@ -3,6 +3,8 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import GraveYard from './pages/GraveYard.jsx'
 import Header from './components/Header.jsx'
+import AsSeenOn from './components/AsSeenOn.jsx'
+import WebInfo from './components/WebInfo.jsx'
 import './App.css'
 
 /*
@@ -39,7 +41,7 @@ function App() {
             tables.forEach(table => {
               const rows = table.querySelectorAll('tr');
               const parsedRows = [];
-              let idGrave = 0;
+              let idGrave = -1;
 
               rows.forEach(row => {
                 const cells = row.querySelectorAll('th, td');
@@ -48,7 +50,10 @@ function App() {
                   id: idGrave,
                   name: rowData[0],
                   type: rowData[1],
-                  focus: rowData[2]
+                  focus: rowData[2],
+                  link: "https://en.wikipedia.org/wiki/" + rowData[0],
+                  dateLaunch: "??",
+                  dateDefunct: "??"
                 }
                 parsedRows.push(objData);
                 idGrave++;
@@ -84,6 +89,8 @@ function App() {
       ) : (
         <GraveYard getGraves={tableData[0]} />
       )}
+      <AsSeenOn/>
+      <WebInfo/>
 
     </>
   )

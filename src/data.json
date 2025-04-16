@@ -1,0 +1,1721 @@
+[
+    {
+      "id": 0,
+      "name": "2channel",
+      "type": "Textboard",
+      "focus": "Japanese Image Board",
+      "link": "https://en.wikipedia.org/wiki/2channel",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 1,
+      "name": "360voice",
+      "type": "Blog",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/360voice",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 2,
+      "name": "43 Things",
+      "type": "",
+      "focus": "Goal setting and achievement",
+      "link": "https://en.wikipedia.org/wiki/43_Things",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 3,
+      "name": "Advogato",
+      "type": "",
+      "focus": "Free software and open source software development",
+      "link": "https://en.wikipedia.org/wiki/Advogato",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 4,
+      "name": "AIM",
+      "type": "Instant messaging",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/AIM",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 5,
+      "name": "Amen",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Amen_(website)",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 6,
+      "name": "Amina – Chechen Republic Online",
+      "type": "",
+      "focus": "Chechen diaspora community",
+      "link": "https://en.wikipedia.org/wiki/Amina_-_Chechen_Republic_Online",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 7,
+      "name": "App.net",
+      "type": "Blog",
+      "focus": "Microblogging",
+      "link": "https://en.wikipedia.org/wiki/App.net",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 8,
+      "name": "AsianAve",
+      "type": "",
+      "focus": "Asian Americans",
+      "link": "https://en.wikipedia.org/wiki/AsianAve",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 9,
+      "name": "Ask.fm",
+      "type": "",
+      "focus": "Anonymous chat",
+      "link": "https://en.wikipedia.org/wiki/Ask.fm",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 10,
+      "name": "Audimated",
+      "type": "",
+      "focus": "Independent music",
+      "link": "https://en.wikipedia.org/wiki/Audimated",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 11,
+      "name": "Avatars United",
+      "type": "",
+      "focus": "Online games",
+      "link": "https://en.wikipedia.org/wiki/Avatars_United",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 12,
+      "name": "Awaken",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Awaken",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 13,
+      "name": "Baidu Space",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Baidu_Space",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 14,
+      "name": "Bebo",
+      "type": "",
+      "focus": "General",
+      "link": "https://en.wikipedia.org/wiki/Bebo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 15,
+      "name": "bianca.com",
+      "type": "",
+      "focus": "Software developers",
+      "link": "https://en.wikipedia.org/wiki/bianca.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 16,
+      "name": "Bolt",
+      "type": "",
+      "focus": "Teenagers",
+      "link": "https://en.wikipedia.org/wiki/Bolt",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 17,
+      "name": "Boredat",
+      "type": "",
+      "focus": "U.S. college students",
+      "link": "https://en.wikipedia.org/wiki/Boredat",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 18,
+      "name": "Capazoo",
+      "type": "",
+      "focus": "Blogging, music, photo, and video sharing",
+      "link": "https://en.wikipedia.org/wiki/Capazoo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 19,
+      "name": "Chictopia",
+      "type": "",
+      "focus": "Fashion enthusiasts",
+      "link": "https://en.wikipedia.org/wiki/Chictopia",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 20,
+      "name": "Classical Lounge",
+      "type": "",
+      "focus": "Classical music fans",
+      "link": "https://en.wikipedia.org/wiki/Classical_Lounge",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 21,
+      "name": "Cloob",
+      "type": "",
+      "focus": "Popular in Iran",
+      "link": "https://en.wikipedia.org/wiki/Cloob",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 22,
+      "name": "Cucumbertown",
+      "type": "",
+      "focus": "Recipes",
+      "link": "https://en.wikipedia.org/wiki/Cucumbertown",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 23,
+      "name": "DailyBooth",
+      "type": "",
+      "focus": "Daily photo uploads",
+      "link": "https://en.wikipedia.org/wiki/DailyBooth",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 24,
+      "name": "Delicious",
+      "type": "",
+      "focus": "Web bookmarks",
+      "link": "https://en.wikipedia.org/wiki/Delicious_(website)",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 25,
+      "name": "Disaboom",
+      "type": "",
+      "focus": "People with disabilities",
+      "link": "https://en.wikipedia.org/wiki/Disaboom",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 26,
+      "name": "Dodgeball",
+      "type": "MoSoSo",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Dodgeball",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 27,
+      "name": "DontStayIn",
+      "type": "",
+      "focus": "Clubbing (primarily UK)",
+      "link": "https://en.wikipedia.org/wiki/DontStayIn",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 28,
+      "name": "eConozco",
+      "type": "",
+      "focus": "Spanish speaking professionals",
+      "link": "https://en.wikipedia.org/wiki/eConozco",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 29,
+      "name": "Edmodo",
+      "type": "",
+      "focus": "Social learning network for schools",
+      "link": "https://en.wikipedia.org/wiki/Edmodo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 30,
+      "name": "Elfwood",
+      "type": "",
+      "focus": "Science fiction and fantasy art and writing",
+      "link": "https://en.wikipedia.org/wiki/Elfwood",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 31,
+      "name": "Ello",
+      "type": "Blog",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Ello",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 32,
+      "name": "Emojli",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Emojli",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 33,
+      "name": "Eons.com",
+      "type": "",
+      "focus": "For baby boomers and ages 40+",
+      "link": "https://en.wikipedia.org/wiki/Eons.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 34,
+      "name": "Essembly",
+      "type": "",
+      "focus": "Politics",
+      "link": "https://en.wikipedia.org/wiki/Essembly",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 35,
+      "name": "Everloop",
+      "type": "",
+      "focus": "People under age 13",
+      "link": "https://en.wikipedia.org/wiki/Everloop",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 36,
+      "name": "eWorld",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/eWorld",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 37,
+      "name": "Experience Project",
+      "type": "",
+      "focus": "Life experiences",
+      "link": "https://en.wikipedia.org/wiki/Experience_Project",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 38,
+      "name": "Eyegroove",
+      "type": "",
+      "focus": "Creating short music videos with augmented reality effects",
+      "link": "https://en.wikipedia.org/wiki/Eyegroove",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 39,
+      "name": "Ezboard",
+      "type": "Bulletin board system",
+      "focus": "Hosted user-created message boards",
+      "link": "https://en.wikipedia.org/wiki/Ezboard",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 40,
+      "name": "FaceGlat",
+      "type": "",
+      "focus": "Haredi Jews",
+      "link": "https://en.wikipedia.org/wiki/FaceGlat",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 41,
+      "name": "Faves.com",
+      "type": "",
+      "focus": "Bookmarks",
+      "link": "https://en.wikipedia.org/wiki/Faves.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 42,
+      "name": "FFFFOUND!",
+      "type": "",
+      "focus": "Image recommendations",
+      "link": "https://en.wikipedia.org/wiki/FFFFOUND!",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 43,
+      "name": "FitFinder",
+      "type": "",
+      "focus": "Anonymous UK student microblogging",
+      "link": "https://en.wikipedia.org/wiki/FitFinder",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 44,
+      "name": "Fling",
+      "type": "",
+      "focus": "Sending images to random strangers all around the world, notoriously abused for sexting",
+      "link": "https://en.wikipedia.org/wiki/Fling",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 45,
+      "name": "Focus.com",
+      "type": "",
+      "focus": "Business professionals",
+      "link": "https://en.wikipedia.org/wiki/Focus.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 46,
+      "name": "Foodie.fm",
+      "type": "",
+      "focus": "Grocery shopping and recipe discovery",
+      "link": "https://en.wikipedia.org/wiki/Foodie.fm",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 47,
+      "name": "Foodily.com",
+      "type": "",
+      "focus": "Recipes",
+      "link": "https://en.wikipedia.org/wiki/Foodily.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 48,
+      "name": "Fotolog",
+      "type": "",
+      "focus": "Sharing photos",
+      "link": "https://en.wikipedia.org/wiki/Fotolog",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 49,
+      "name": "FriendFeed",
+      "type": "",
+      "focus": "Feed aggregator",
+      "link": "https://en.wikipedia.org/wiki/FriendFeed",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 50,
+      "name": "Friends Reunited",
+      "type": "",
+      "focus": "Reunions",
+      "link": "https://en.wikipedia.org/wiki/Friends_Reunited",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 51,
+      "name": "Friendster",
+      "type": "",
+      "focus": "Friends",
+      "link": "https://en.wikipedia.org/wiki/Friendster",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 52,
+      "name": "GamerDNA",
+      "type": "",
+      "focus": "Computer and video games",
+      "link": "https://en.wikipedia.org/wiki/GamerDNA",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 53,
+      "name": "Gather.com",
+      "type": "",
+      "focus": "Social, political and cultural topics",
+      "link": "https://en.wikipedia.org/wiki/Gather.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 54,
+      "name": "GEnie",
+      "type": "Bulletin board system",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/GEnie",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 55,
+      "name": "Gentlemint",
+      "type": "",
+      "focus": "Men",
+      "link": "https://en.wikipedia.org/wiki/Gentlemint",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 56,
+      "name": "Glee.com",
+      "type": "",
+      "focus": "LGBTQ",
+      "link": "https://en.wikipedia.org/wiki/Glee.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 57,
+      "name": "Gogoyoko",
+      "type": "",
+      "focus": "Musicians and music lovers.",
+      "link": "https://en.wikipedia.org/wiki/Gogoyoko",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 58,
+      "name": "Goodwizz",
+      "type": "",
+      "focus": "Matchmaking and personality games. Global, based in France.",
+      "link": "https://en.wikipedia.org/wiki/Goodwizz",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 59,
+      "name": "Google+",
+      "type": "Blog",
+      "focus": "Microblogging",
+      "link": "https://en.wikipedia.org/wiki/Google+",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 60,
+      "name": "Google Buzz",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Google_Buzz",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 61,
+      "name": "Grono.net",
+      "type": "",
+      "focus": "Discussion forums, sharing photos, links to cultural events in particular cities, the sale of property and job searches.",
+      "link": "https://en.wikipedia.org/wiki/Grono.net",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 62,
+      "name": "Heello",
+      "type": "",
+      "focus": "Microblogging",
+      "link": "https://en.wikipedia.org/wiki/Heello",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 63,
+      "name": "Hello",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Hello",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 64,
+      "name": "Highlight",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Highlight",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 65,
+      "name": "Hive",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Hive",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 66,
+      "name": "Hospitality Club",
+      "type": "",
+      "focus": "Hospex",
+      "link": "https://en.wikipedia.org/wiki/Hospitality_Club",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 67,
+      "name": "Houseparty",
+      "type": "",
+      "focus": "Video chatting",
+      "link": "https://en.wikipedia.org/wiki/Houseparty",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 68,
+      "name": "Hyves",
+      "type": "",
+      "focus": "Social (Dutch)",
+      "link": "https://en.wikipedia.org/wiki/Hyves",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 69,
+      "name": "ICQ",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/ICQ",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 70,
+      "name": "IdeaPlane",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/IdeaPlane",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 71,
+      "name": "Itsmy",
+      "type": "",
+      "focus": "Mobile community for blogging, friends, and personal TV-shows",
+      "link": "https://en.wikipedia.org/wiki/Itsmy",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 72,
+      "name": "iTunes Ping[3]",
+      "type": "",
+      "focus": "Music",
+      "link": "https://en.wikipedia.org/wiki/iTunes Ping[3]",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 73,
+      "name": "iTwixie",
+      "type": "",
+      "focus": "Social networking site for tween girls.",
+      "link": "https://en.wikipedia.org/wiki/iTwixie",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 74,
+      "name": "iWiW",
+      "type": "",
+      "focus": "Hungarian",
+      "link": "https://en.wikipedia.org/wiki/iWiW",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 75,
+      "name": "Jaiku",
+      "type": "",
+      "focus": "Microblogging and lifestreaming service",
+      "link": "https://en.wikipedia.org/wiki/Jaiku",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 76,
+      "name": "Jiepang",
+      "type": "",
+      "focus": "Location-based mobile. In Chinese.",
+      "link": "https://en.wikipedia.org/wiki/Jiepang",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 77,
+      "name": "JuiceCaster",
+      "type": "",
+      "focus": "Mobile app",
+      "link": "https://en.wikipedia.org/wiki/JuiceCaster",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 78,
+      "name": "Juvenation",
+      "type": "",
+      "focus": "People with type 1 diabetes",
+      "link": "https://en.wikipedia.org/wiki/Juvenation",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 79,
+      "name": "Keek",
+      "type": "",
+      "focus": "Upload video status updates, which were called \"keeks\"",
+      "link": "https://en.wikipedia.org/wiki/Keek",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 80,
+      "name": "Kiwibox",
+      "type": "",
+      "focus": "Teenagers",
+      "link": "https://en.wikipedia.org/wiki/Kiwibox",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 81,
+      "name": "Koo",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Koo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 82,
+      "name": "Koofers",
+      "type": "Academic",
+      "focus": "Social studying network for college students",
+      "link": "https://en.wikipedia.org/wiki/Koofers",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 83,
+      "name": "Lifeknot",
+      "type": "",
+      "focus": "Shared interests, hobbies",
+      "link": "https://en.wikipedia.org/wiki/Lifeknot",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 84,
+      "name": "LinkExpats",
+      "type": "",
+      "focus": "Expatriates in 100+ countries",
+      "link": "https://en.wikipedia.org/wiki/LinkExpats",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 85,
+      "name": "Livemocha",
+      "type": "",
+      "focus": "Online language learning",
+      "link": "https://en.wikipedia.org/wiki/Livemocha",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 86,
+      "name": "LunarStorm",
+      "type": "",
+      "focus": "Swedish teenagers",
+      "link": "https://en.wikipedia.org/wiki/LunarStorm",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 87,
+      "name": "Makeoutclub",
+      "type": "",
+      "focus": "General",
+      "link": "https://en.wikipedia.org/wiki/Makeoutclub",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 88,
+      "name": "Me2day",
+      "type": "Blog",
+      "focus": "Microblogging in South Korea",
+      "link": "https://en.wikipedia.org/wiki/Me2day",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 89,
+      "name": "MeatballWiki",
+      "type": "Wiki",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/MeatballWiki",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 90,
+      "name": "Meerkat",
+      "type": "",
+      "focus": "Broadcast live video streaming through mobile devices",
+      "link": "https://en.wikipedia.org/wiki/Meerkat",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 91,
+      "name": "Meetro",
+      "type": "MoSoSo",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Meetro",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 92,
+      "name": "Meez",
+      "type": "",
+      "focus": "Chat rooms",
+      "link": "https://en.wikipedia.org/wiki/Meez",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 93,
+      "name": "MemeStreams",
+      "type": "",
+      "focus": "Memes",
+      "link": "https://en.wikipedia.org/wiki/MemeStreams",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 94,
+      "name": "MetroMates",
+      "type": "Itinerary sharing",
+      "focus": "Metro travellers in India",
+      "link": "https://en.wikipedia.org/wiki/MetroMates",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 95,
+      "name": "MiGente.com",
+      "type": "",
+      "focus": "Hispanics",
+      "link": "https://en.wikipedia.org/wiki/MiGente.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 96,
+      "name": "Miiverse",
+      "type": "",
+      "focus": "Video games, specifically those released on the Nintendo 3DS or Wii U",
+      "link": "https://en.wikipedia.org/wiki/Miiverse",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 97,
+      "name": "Mivasocial",
+      "type": "",
+      "focus": "Africans",
+      "link": "https://en.wikipedia.org/wiki/Mivasocial",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 98,
+      "name": "MixBit",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/MixBit",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 99,
+      "name": "Mixx",
+      "type": "",
+      "focus": "Blogs",
+      "link": "https://en.wikipedia.org/wiki/Mixx",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 100,
+      "name": "Mobli",
+      "type": "",
+      "focus": "Social mobile photo and video-sharing website",
+      "link": "https://en.wikipedia.org/wiki/Mobli",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 101,
+      "name": "MOG",
+      "type": "",
+      "focus": "Music",
+      "link": "https://en.wikipedia.org/wiki/MOG",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 102,
+      "name": "Mugshot",
+      "type": "",
+      "focus": "Aggregator from Red Hat, with compatible desktop software and an official Firefox plugin",
+      "link": "https://en.wikipedia.org/wiki/Mugshot",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 103,
+      "name": "Multiply",
+      "type": "",
+      "focus": "Real world sharing",
+      "link": "https://en.wikipedia.org/wiki/Multiply",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 104,
+      "name": "Mulu",
+      "type": "",
+      "focus": "Product recommendations",
+      "link": "https://en.wikipedia.org/wiki/Mulu",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 105,
+      "name": "Musical.ly",
+      "type": "",
+      "focus": "Social media video app for short lip-sync, comedy, and talent videos",
+      "link": "https://en.wikipedia.org/wiki/Musical.ly",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 106,
+      "name": "MyMFB",
+      "type": "",
+      "focus": "Muslims",
+      "link": "https://en.wikipedia.org/wiki/MyMFB",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 107,
+      "name": "My Opera",
+      "type": "Blog",
+      "focus": "Blogging, mobile blogging, photo sharing, connecting with friends, Opera Link and Opera Unite.",
+      "link": "https://en.wikipedia.org/wiki/My Opera",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 108,
+      "name": "MyVetwork",
+      "type": "",
+      "focus": "Military veterans",
+      "link": "https://en.wikipedia.org/wiki/MyVetwork",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 109,
+      "name": "Natter Social Network",
+      "type": "",
+      "focus": "micro-microblogging",
+      "link": "https://en.wikipedia.org/wiki/Natter Social Network",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 110,
+      "name": "Naymz",
+      "type": "",
+      "focus": "Professional networking",
+      "link": "https://en.wikipedia.org/wiki/Naymz",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 111,
+      "name": "Nearby",
+      "type": "",
+      "focus": "People nearby",
+      "link": "https://en.wikipedia.org/wiki/Nearby",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 112,
+      "name": "Netlog",
+      "type": "",
+      "focus": "Belgians",
+      "link": "https://en.wikipedia.org/wiki/Netlog",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 113,
+      "name": "Netropolitan Club",
+      "type": "",
+      "focus": "Wealthy people",
+      "link": "https://en.wikipedia.org/wiki/Netropolitan Club",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 114,
+      "name": "Nettby",
+      "type": "",
+      "focus": "Norwegians",
+      "link": "https://en.wikipedia.org/wiki/Nettby",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 115,
+      "name": "NK.pl",
+      "type": "",
+      "focus": "School, college and friends in Poland",
+      "link": "https://en.wikipedia.org/wiki/NK.pl",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 116,
+      "name": "Omegle",
+      "type": "",
+      "focus": "Video chatting",
+      "link": "https://en.wikipedia.org/wiki/Omegle",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 117,
+      "name": "Orkut",
+      "type": "",
+      "focus": "First social networking service by Google",
+      "link": "https://en.wikipedia.org/wiki/Orkut",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 118,
+      "name": "OUTeverywhere",
+      "type": "",
+      "focus": "Gay/LGBTQ community",
+      "link": "https://en.wikipedia.org/wiki/OUTeverywhere",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 119,
+      "name": "Periscope",
+      "type": "",
+      "focus": "Video streaming",
+      "link": "https://en.wikipedia.org/wiki/Periscope",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 120,
+      "name": "Pheed",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Pheed",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 121,
+      "name": "Piczo",
+      "type": "",
+      "focus": "Blogging website for teens; bought by  Posh Media Group",
+      "link": "https://en.wikipedia.org/wiki/Piczo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 122,
+      "name": "Planet Cancer",
+      "type": "",
+      "focus": "Young adults with cancer",
+      "link": "https://en.wikipedia.org/wiki/Planet Cancer",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 123,
+      "name": "PlanetAll",
+      "type": "",
+      "focus": "Calendar and address site",
+      "link": "https://en.wikipedia.org/wiki/PlanetAll",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 124,
+      "name": "Plaxo",
+      "type": "",
+      "focus": "Aggregator",
+      "link": "https://en.wikipedia.org/wiki/Plaxo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 125,
+      "name": "Player.me",
+      "type": "",
+      "focus": "Video games, now entertaiment news",
+      "link": "https://en.wikipedia.org/wiki/Player.me",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 126,
+      "name": "Playfire",
+      "type": "",
+      "focus": "Computer and video games",
+      "link": "https://en.wikipedia.org/wiki/Playfire",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 127,
+      "name": "Playlist.com",
+      "type": "",
+      "focus": "Music",
+      "link": "https://en.wikipedia.org/wiki/Playlist.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 128,
+      "name": "Posterous",
+      "type": "",
+      "focus": "Blogging platform",
+      "link": "https://en.wikipedia.org/wiki/Posterous",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 129,
+      "name": "Poupéegirl",
+      "type": "",
+      "focus": "Japanese avatars",
+      "link": "https://en.wikipedia.org/wiki/Poupéegirl",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 130,
+      "name": "Pownce",
+      "type": "",
+      "focus": "Microblogging application (similar to Twitter)",
+      "link": "https://en.wikipedia.org/wiki/Pownce",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 131,
+      "name": "Qaiku",
+      "type": "",
+      "focus": "Micro-blogging and live-streaming service comparable to Twitter and Jaiku",
+      "link": "https://en.wikipedia.org/wiki/Qaiku",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 132,
+      "name": "Quechup",
+      "type": "",
+      "focus": "Friendship, dating",
+      "link": "https://en.wikipedia.org/wiki/Quechup",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 133,
+      "name": "Raptr",
+      "type": "",
+      "focus": "Video games",
+      "link": "https://en.wikipedia.org/wiki/Raptr",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 134,
+      "name": "Rentboy.com",
+      "type": "",
+      "focus": "Male sex workers",
+      "link": "https://en.wikipedia.org/wiki/Rentboy.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 135,
+      "name": "Rupture",
+      "type": "",
+      "focus": "Gamers",
+      "link": "https://en.wikipedia.org/wiki/Rupture",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 136,
+      "name": "Sarahah",
+      "type": "",
+      "focus": "Feedback from friends and coworkers",
+      "link": "https://en.wikipedia.org/wiki/Sarahah",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 137,
+      "name": "ScuttlePad",
+      "type": "",
+      "focus": "Children aged 6–11",
+      "link": "https://en.wikipedia.org/wiki/ScuttlePad",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 138,
+      "name": "Shelfari",
+      "type": "",
+      "focus": "Books",
+      "link": "https://en.wikipedia.org/wiki/Shelfari",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 139,
+      "name": "Sixdegrees.com",
+      "type": "",
+      "focus": "Web of contacts",
+      "link": "https://en.wikipedia.org/wiki/Sixdegrees.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 140,
+      "name": "SkillPages",
+      "type": "",
+      "focus": "Skilled people",
+      "link": "https://en.wikipedia.org/wiki/SkillPages",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 141,
+      "name": "Skyrock",
+      "type": "",
+      "focus": "French-speaking world",
+      "link": "https://en.wikipedia.org/wiki/Skyrock",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 142,
+      "name": "Snip.it",
+      "type": "",
+      "focus": "Articles, videos, and images",
+      "link": "https://en.wikipedia.org/wiki/Snip.it",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 143,
+      "name": "SocialVibe (TrueX)",
+      "type": "",
+      "focus": "Charity",
+      "link": "https://en.wikipedia.org/wiki/SocialVibe (TrueX)",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 144,
+      "name": "So.cl",
+      "type": "",
+      "focus": "Millennials; made by Microsoft FUSE Labs.",
+      "link": "https://en.wikipedia.org/wiki/So.cl",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 145,
+      "name": "Sonico.com",
+      "type": "",
+      "focus": "Latin America and Spanish and Portuguese speaking regions",
+      "link": "https://en.wikipedia.org/wiki/Sonico.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 146,
+      "name": "Soup.io",
+      "type": "",
+      "focus": "Microblogging",
+      "link": "https://en.wikipedia.org/wiki/Soup.io",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 147,
+      "name": "Spire",
+      "type": "",
+      "focus": "Personal accomplishments",
+      "link": "https://en.wikipedia.org/wiki/Spire",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 148,
+      "name": "Spring.me",
+      "type": "",
+      "focus": "Meeting people",
+      "link": "https://en.wikipedia.org/wiki/Spring.me",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 149,
+      "name": "Stickam",
+      "type": "",
+      "focus": "Live video streaming and chat.",
+      "link": "https://en.wikipedia.org/wiki/Stickam",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 150,
+      "name": "StockPickr",
+      "type": "",
+      "focus": "Stock picks",
+      "link": "https://en.wikipedia.org/wiki/StockPickr",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 151,
+      "name": "Streetlife",
+      "type": "",
+      "focus": "Location-based",
+      "link": "https://en.wikipedia.org/wiki/Streetlife",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 152,
+      "name": "Students Circle Network",
+      "type": "",
+      "focus": "Connected students, teachers and institutions to course resources and study groups.",
+      "link": "https://en.wikipedia.org/wiki/Students Circle Network",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 153,
+      "name": "StudiVZ",
+      "type": "",
+      "focus": "University students, mostly in German-speaking countries",
+      "link": "https://en.wikipedia.org/wiki/StudiVZ",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 154,
+      "name": "StumbleUpon",
+      "type": "",
+      "focus": "Web pages, photos, and videos",
+      "link": "https://en.wikipedia.org/wiki/StumbleUpon",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 155,
+      "name": "Surfbook",
+      "type": "",
+      "focus": "Netherlands",
+      "link": "https://en.wikipedia.org/wiki/Surfbook",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 156,
+      "name": "Talkbiznow",
+      "type": "",
+      "focus": "Business networking",
+      "link": "https://en.wikipedia.org/wiki/Talkbiznow",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 157,
+      "name": "Talenthouse",
+      "type": "",
+      "focus": "Creative collaboration",
+      "link": "https://en.wikipedia.org/wiki/Talenthouse",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 158,
+      "name": "Taltopia",
+      "type": "",
+      "focus": "Artists / fans / talent professionals",
+      "link": "https://en.wikipedia.org/wiki/Taltopia",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 159,
+      "name": "tbh",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/tbh",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 160,
+      "name": "Tea Party Community",
+      "type": "",
+      "focus": "Conservatism in the United States",
+      "link": "https://en.wikipedia.org/wiki/Tea Party Community",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 161,
+      "name": "TOTSE",
+      "type": "Bulletin board system",
+      "focus": "Controversial files",
+      "link": "https://en.wikipedia.org/wiki/TOTSE",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 162,
+      "name": "Tout",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Tout",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 163,
+      "name": "TravBuddy.com",
+      "type": "",
+      "focus": "Travel",
+      "link": "https://en.wikipedia.org/wiki/TravBuddy.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 164,
+      "name": "Travel Companion Exchange",
+      "type": "",
+      "focus": "Travel companions",
+      "link": "https://en.wikipedia.org/wiki/Travel Companion Exchange",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 165,
+      "name": "tribe.net",
+      "type": "",
+      "focus": "Friends networks",
+      "link": "https://en.wikipedia.org/wiki/tribe.net",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 166,
+      "name": "Tsu",
+      "type": "",
+      "focus": "Message, photos",
+      "link": "https://en.wikipedia.org/wiki/Tsu",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 167,
+      "name": "Twoo.com",
+      "type": "",
+      "focus": "Entertainment",
+      "link": "https://en.wikipedia.org/wiki/Twoo.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 168,
+      "name": "tvtag",
+      "type": "",
+      "focus": "Entertainment",
+      "link": "https://en.wikipedia.org/wiki/tvtag",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 169,
+      "name": "Vampirefreaks.com",
+      "type": "",
+      "focus": "Gothic and industrial subculture",
+      "link": "https://en.wikipedia.org/wiki/Vampirefreaks.com",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 170,
+      "name": "Vine",
+      "type": "",
+      "focus": "Social media video app for short lip-sync, comedy, and talent videos",
+      "link": "https://en.wikipedia.org/wiki/Vine",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 171,
+      "name": "Virb",
+      "type": "",
+      "focus": "Artists, including musicians and photographers",
+      "link": "https://en.wikipedia.org/wiki/Virb",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 172,
+      "name": "Voat",
+      "type": "",
+      "focus": "Censor free reddit clone",
+      "link": "https://en.wikipedia.org/wiki/Voat",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 173,
+      "name": "Vox",
+      "type": "Blog",
+      "focus": "Blogging",
+      "link": "https://en.wikipedia.org/wiki/Vox",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 174,
+      "name": "WeeWorld",
+      "type": "",
+      "focus": "Teenagers aged 9 to 17",
+      "link": "https://en.wikipedia.org/wiki/WeeWorld",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 175,
+      "name": "Werkenntwen",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Werkenntwen",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 176,
+      "name": "Windows Live Messenger",
+      "type": "Instant messaging",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Windows Live Messenger",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 177,
+      "name": "Windows Live Spaces",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Windows Live Spaces",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 178,
+      "name": "Woo Media",
+      "type": "",
+      "focus": "Entertainment",
+      "link": "https://en.wikipedia.org/wiki/Woo Media",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 179,
+      "name": "Wretch",
+      "type": "Blog",
+      "focus": "Taiwan",
+      "link": "https://en.wikipedia.org/wiki/Wretch",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 180,
+      "name": "Xanga",
+      "type": "Blog",
+      "focus": "Blogs and \"metro\" areas",
+      "link": "https://en.wikipedia.org/wiki/Xanga",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 181,
+      "name": "Yahoo! 360°",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! 360°",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 182,
+      "name": "Yahoo! Answers",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! Answers",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 183,
+      "name": "Yahoo! GeoCities",
+      "type": "WorldWideWeb",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! GeoCities",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 184,
+      "name": "Yahoo! Kickstart",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! Kickstart",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 185,
+      "name": "Yahoo! Mash",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! Mash",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 186,
+      "name": "Yahoo! Meme",
+      "type": "",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! Meme",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 187,
+      "name": "Yahoo! Messenger",
+      "type": "Instant messaging",
+      "focus": "",
+      "link": "https://en.wikipedia.org/wiki/Yahoo! Messenger",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 188,
+      "name": "Yo",
+      "type": "",
+      "focus": "Quick connections",
+      "link": "https://en.wikipedia.org/wiki/Yo",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 189,
+      "name": "Yookos",
+      "type": "",
+      "focus": "Photos, videos, blogs, games",
+      "link": "https://en.wikipedia.org/wiki/Yookos",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    },
+    {
+      "id": 190,
+      "name": "Zoopy",
+      "type": "",
+      "focus": "Share videos, photos and audio clips",
+      "link": "https://en.wikipedia.org/wiki/Zoopy",
+      "dateLaunch": "??",
+      "dateDefunct": "??"
+    }
+  ]

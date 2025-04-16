@@ -1,0 +1,25 @@
+.asSeenOn{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+    margin-top: 50px;
+    gap: 20px;
+    background-color: rgb(126, 126, 126);
+    text-align: center;
+    color: #242424;
+
+}
+
+
+.logoImages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logoImages img{
+    height: 50px;
+}
+.asSeenOn h2{
+    padding-bottom: 30px;
+}
