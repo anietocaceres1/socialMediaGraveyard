@@ -2,11 +2,23 @@ import { RiCrossFill } from "react-icons/ri";
 
 function Grave({myGrave}){
 
+    let hrefName
+
+    if (myGrave.name === "Amen"){
+        hrefName = "https://en.wikipedia.org/wiki/Amen_(website)";
+    }
+    else if (myGrave.name === "Vox"){
+        hrefName = "https://en.wikipedia.org/wiki/Vox_(blogging_platform)"
+    }
+    else{
+        hrefName = "https://en.wikipedia.org/wiki/" + myGrave.name
+    }
+
     return(
         <>
         <div className="grave">
             <RiCrossFill size={40}/>
-            <h2>{myGrave.name}</h2>         
+            <h2><a href={hrefName}>{myGrave.name}</a></h2>         
             <p>{myGrave.type}</p>
             <p>{myGrave.focus}</p>
         </div>
