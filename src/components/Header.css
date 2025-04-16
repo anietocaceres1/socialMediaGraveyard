@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    gap: 20px;
+    background-image: url('./header_background.png');
+    background-size: contain; /* Ensures the image fits within the element */
+    background-position: center; /* Centers the image */
+    /*background-repeat: no-repeat;  Prevents the image from repeating */
+
+}
+.header img{
+    width: 100px;
+}
