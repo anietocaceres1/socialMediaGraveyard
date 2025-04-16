@@ -5,8 +5,8 @@
       "type": "Textboard",
       "focus": "Japanese Image Board",
       "link": "https://en.wikipedia.org/wiki/2channel",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2014"
     },
     {
       "id": 1,
@@ -14,8 +14,8 @@
       "type": "Blog",
       "focus": "",
       "link": "https://en.wikipedia.org/wiki/360voice",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2011"
     },
     {
       "id": 2,
@@ -23,8 +23,8 @@
       "type": "",
       "focus": "Goal setting and achievement",
       "link": "https://en.wikipedia.org/wiki/43_Things",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2015"
     },
     {
       "id": 3,
@@ -32,17 +32,17 @@
       "type": "",
       "focus": "Free software and open source software development",
       "link": "https://en.wikipedia.org/wiki/Advogato",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2007"
     },
     {
       "id": 4,
       "name": "AIM",
       "type": "Instant messaging",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/AIM",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/AIM_(software)",
+      "dateLaunch": "1997",
+      "dateDefunct": "2017"
     },
     {
       "id": 5,
@@ -50,8 +50,8 @@
       "type": "",
       "focus": "",
       "link": "https://en.wikipedia.org/wiki/Amen_(website)",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2015"
     },
     {
       "id": 6,
@@ -59,8 +59,8 @@
       "type": "",
       "focus": "Chechen diaspora community",
       "link": "https://en.wikipedia.org/wiki/Amina_-_Chechen_Republic_Online",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1997",
+      "dateDefunct": "2007"
     },
     {
       "id": 7,
@@ -68,8 +68,8 @@
       "type": "Blog",
       "focus": "Microblogging",
       "link": "https://en.wikipedia.org/wiki/App.net",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2012",
+      "dateDefunct": "2017"
     },
     {
       "id": 8,
@@ -77,8 +77,8 @@
       "type": "",
       "focus": "Asian Americans",
       "link": "https://en.wikipedia.org/wiki/AsianAve",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1997",
+      "dateDefunct": "2007"
     },
     {
       "id": 9,
@@ -86,8 +86,8 @@
       "type": "",
       "focus": "Anonymous chat",
       "link": "https://en.wikipedia.org/wiki/Ask.fm",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2024"
     },
     {
       "id": 10,
@@ -95,7 +95,7 @@
       "type": "",
       "focus": "Independent music",
       "link": "https://en.wikipedia.org/wiki/Audimated",
-      "dateLaunch": "??",
+      "dateLaunch": "2010",
       "dateDefunct": "??"
     },
     {
@@ -104,14 +104,14 @@
       "type": "",
       "focus": "Online games",
       "link": "https://en.wikipedia.org/wiki/Avatars_United",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2010"
     },
     {
       "id": 12,
       "name": "Awaken",
-      "type": "",
-      "focus": "",
+      "type": "??",
+      "focus": "??",
       "link": "https://en.wikipedia.org/wiki/Awaken",
       "dateLaunch": "??",
       "dateDefunct": "??"
@@ -119,146 +119,146 @@
     {
       "id": 13,
       "name": "Baidu Space",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Record and share lives easily",
       "link": "https://en.wikipedia.org/wiki/Baidu_Space",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2015"
     },
     {
       "id": 14,
       "name": "Bebo",
-      "type": "",
-      "focus": "General",
+      "type": "Blog",
+      "focus": "Social network similar to mySpace and Facebook",
       "link": "https://en.wikipedia.org/wiki/Bebo",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2022"
     },
     {
       "id": 15,
       "name": "bianca.com",
-      "type": "",
-      "focus": "Software developers",
+      "type": "Chat",
+      "focus": "Website infamous for its extreme free speech and raucous discourse. Also it had the first web-based chat room.",
       "link": "https://en.wikipedia.org/wiki/bianca.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1994",
+      "dateDefunct": "2001"
     },
     {
       "id": 16,
       "name": "Bolt",
-      "type": "",
-      "focus": "Teenagers",
-      "link": "https://en.wikipedia.org/wiki/Bolt",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Chat/Message",
+      "focus": "Oriented for teenagers, it offered diverse functions like chat rooms, message boards or games",
+      "link": "https://en.wikipedia.org/wiki/Bolt_(website)",
+      "dateLaunch": "1996",
+      "dateDefunct": "2008"
     },
     {
       "id": 17,
       "name": "Boredat",
-      "type": "",
-      "focus": "U.S. college students",
+      "type": "Message",
+      "focus": "Pseudo-anonymous message board forU.S. college students",
       "link": "https://en.wikipedia.org/wiki/Boredat",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2016"
     },
     {
       "id": 18,
       "name": "Capazoo",
-      "type": "",
+      "type": "Blog",
       "focus": "Blogging, music, photo, and video sharing",
       "link": "https://en.wikipedia.org/wiki/Capazoo",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2007"
     },
     {
       "id": 19,
       "name": "Chictopia",
-      "type": "",
-      "focus": "Fashion enthusiasts",
+      "type": "Blog",
+      "focus": "Blog for designed for fashion enthusiasts",
       "link": "https://en.wikipedia.org/wiki/Chictopia",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2023"
     },
     {
       "id": 20,
       "name": "Classical Lounge",
-      "type": "",
-      "focus": "Classical music fans",
+      "type": "Blog",
+      "focus": "Blog website for classical music fans",
       "link": "https://en.wikipedia.org/wiki/Classical_Lounge",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2011"
     },
     {
       "id": 21,
       "name": "Cloob",
-      "type": "",
-      "focus": "Popular in Iran",
+      "type": "Chat/Blog",
+      "focus": "Website popular in Iran and other persian talking countries",
       "link": "https://en.wikipedia.org/wiki/Cloob",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2021"
     },
     {
       "id": 22,
       "name": "Cucumbertown",
-      "type": "",
-      "focus": "Recipes",
+      "type": "Blog",
+      "focus": "Food blogging platform",
       "link": "https://en.wikipedia.org/wiki/Cucumbertown",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2012",
+      "dateDefunct": "2015"
     },
     {
       "id": 23,
       "name": "DailyBooth",
-      "type": "",
-      "focus": "Daily photo uploads",
+      "type": "Blog",
+      "focus": "Designed for users to take a photo of themselves every day with a caption, in order to document and share their life with others",
       "link": "https://en.wikipedia.org/wiki/DailyBooth",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2012"
     },
     {
       "id": 24,
       "name": "Delicious",
-      "type": "",
-      "focus": "Web bookmarks",
+      "type": "Bookmarks",
+      "focus": "Social bookmarking web service for storing, sharing, and discovering web bookmarks",
       "link": "https://en.wikipedia.org/wiki/Delicious_(website)",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2017"
     },
     {
       "id": 25,
       "name": "Disaboom",
-      "type": "",
-      "focus": "People with disabilities",
+      "type": "Blog/Chat",
+      "focus": "Social networking service for people with disabilities",
       "link": "https://en.wikipedia.org/wiki/Disaboom",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2011"
     },
     {
       "id": 26,
       "name": "Dodgeball",
       "type": "MoSoSo",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Dodgeball",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "focus": "Location-based social networking software provider for mobile devices",
+      "link": "https://en.wikipedia.org/wiki/Dodgeball_(service)",
+      "dateLaunch": "2005",
+      "dateDefunct": "2009"
     },
     {
       "id": 27,
       "name": "DontStayIn",
-      "type": "",
+      "type": "Blog",
       "focus": "Clubbing (primarily UK)",
       "link": "https://en.wikipedia.org/wiki/DontStayIn",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2016"
     },
     {
       "id": 28,
       "name": "eConozco",
-      "type": "",
+      "type": "Networking",
       "focus": "Spanish speaking professionals",
       "link": "https://en.wikipedia.org/wiki/eConozco",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2006"
     },
     {
       "id": 29,
@@ -266,7 +266,7 @@
       "type": "",
       "focus": "Social learning network for schools",
       "link": "https://en.wikipedia.org/wiki/Edmodo",
-      "dateLaunch": "??",
+      "dateLaunch": "",
       "dateDefunct": "??"
     },
     {
@@ -649,10 +649,10 @@
     },
     {
       "id": 72,
-      "name": "iTunes Ping[3]",
+      "name": "iTunes Ping",
       "type": "",
       "focus": "Music",
-      "link": "https://en.wikipedia.org/wiki/iTunes Ping[3]",
+      "link": "https://en.wikipedia.org/wiki/iTunes_Ping",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -967,7 +967,7 @@
       "name": "My Opera",
       "type": "Blog",
       "focus": "Blogging, mobile blogging, photo sharing, connecting with friends, Opera Link and Opera Unite.",
-      "link": "https://en.wikipedia.org/wiki/My Opera",
+      "link": "https://en.wikipedia.org/wiki/My_Opera",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -985,7 +985,7 @@
       "name": "Natter Social Network",
       "type": "",
       "focus": "micro-microblogging",
-      "link": "https://en.wikipedia.org/wiki/Natter Social Network",
+      "link": "https://en.wikipedia.org/wiki/Natter_Social_Network",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1021,7 +1021,7 @@
       "name": "Netropolitan Club",
       "type": "",
       "focus": "Wealthy people",
-      "link": "https://en.wikipedia.org/wiki/Netropolitan Club",
+      "link": "https://en.wikipedia.org/wiki/Netropolitan_Club",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1102,7 +1102,7 @@
       "name": "Planet Cancer",
       "type": "",
       "focus": "Young adults with cancer",
-      "link": "https://en.wikipedia.org/wiki/Planet Cancer",
+      "link": "https://en.wikipedia.org/wiki/Planet_Cancer",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1291,7 +1291,7 @@
       "name": "SocialVibe (TrueX)",
       "type": "",
       "focus": "Charity",
-      "link": "https://en.wikipedia.org/wiki/SocialVibe (TrueX)",
+      "link": "https://en.wikipedia.org/wiki/SocialVibe",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1372,7 +1372,7 @@
       "name": "Students Circle Network",
       "type": "",
       "focus": "Connected students, teachers and institutions to course resources and study groups.",
-      "link": "https://en.wikipedia.org/wiki/Students Circle Network",
+      "link": "https://en.wikipedia.org/wiki/Students_Circle_Network",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1444,7 +1444,7 @@
       "name": "Tea Party Community",
       "type": "",
       "focus": "Conservatism in the United States",
-      "link": "https://en.wikipedia.org/wiki/Tea Party Community",
+      "link": "https://en.wikipedia.org/wiki/Tea_Party_Community",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1480,7 +1480,7 @@
       "name": "Travel Companion Exchange",
       "type": "",
       "focus": "Travel companions",
-      "link": "https://en.wikipedia.org/wiki/Travel Companion Exchange",
+      "link": "https://en.wikipedia.org/wiki/Travel_Companion_Exchange",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1561,7 +1561,7 @@
       "name": "Vox",
       "type": "Blog",
       "focus": "Blogging",
-      "link": "https://en.wikipedia.org/wiki/Vox",
+      "link": "https://en.wikipedia.org/wiki/Vox_(blogging_platform)",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1588,7 +1588,7 @@
       "name": "Windows Live Messenger",
       "type": "Instant messaging",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Windows Live Messenger",
+      "link": "https://en.wikipedia.org/wiki/Windows_Live_Messenger",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1597,7 +1597,7 @@
       "name": "Windows Live Spaces",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Windows Live Spaces",
+      "link": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1606,7 +1606,7 @@
       "name": "Woo Media",
       "type": "",
       "focus": "Entertainment",
-      "link": "https://en.wikipedia.org/wiki/Woo Media",
+      "link": "https://en.wikipedia.org/wiki/Woo_Media",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1633,7 +1633,7 @@
       "name": "Yahoo! 360°",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! 360°",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_360°",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1642,7 +1642,7 @@
       "name": "Yahoo! Answers",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! Answers",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_Answers",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1651,7 +1651,7 @@
       "name": "Yahoo! GeoCities",
       "type": "WorldWideWeb",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! GeoCities",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_GeoCities",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1660,7 +1660,7 @@
       "name": "Yahoo! Kickstart",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! Kickstart",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_Kickstart",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1669,7 +1669,7 @@
       "name": "Yahoo! Mash",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! Mash",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_Mash",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1678,7 +1678,7 @@
       "name": "Yahoo! Meme",
       "type": "",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! Meme",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_Meme",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1687,7 +1687,7 @@
       "name": "Yahoo! Messenger",
       "type": "Instant messaging",
       "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Yahoo! Messenger",
+      "link": "https://en.wikipedia.org/wiki/Yahoo!_Messenger",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
@@ -1696,7 +1696,7 @@
       "name": "Yo",
       "type": "",
       "focus": "Quick connections",
-      "link": "https://en.wikipedia.org/wiki/Yo",
+      "link": "https://en.wikipedia.org/wiki/Yo_(app)",
       "dateLaunch": "??",
       "dateDefunct": "??"
     },
