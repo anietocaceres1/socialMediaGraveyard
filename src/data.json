@@ -263,20 +263,20 @@
     {
       "id": 29,
       "name": "Edmodo",
-      "type": "",
+      "type": "Educational",
       "focus": "Social learning network for schools",
       "link": "https://en.wikipedia.org/wiki/Edmodo",
-      "dateLaunch": "",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2022"
     },
     {
       "id": 30,
       "name": "Elfwood",
-      "type": "",
+      "type": "Image Board",
       "focus": "Science fiction and fantasy art and writing",
       "link": "https://en.wikipedia.org/wiki/Elfwood",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1996",
+      "dateDefunct": "2016"
     },
     {
       "id": 31,
