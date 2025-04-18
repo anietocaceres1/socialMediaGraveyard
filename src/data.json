@@ -263,11 +263,11 @@
     {
       "id": 29,
       "name": "Edmodo",
-      "type": "",
+      "type": "Educational",
       "focus": "Social learning network for schools",
       "link": "https://en.wikipedia.org/wiki/Edmodo",
-      "dateLaunch": "",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2022"
     },
     {
       "id": 30,
@@ -275,80 +275,80 @@
       "type": "",
       "focus": "Science fiction and fantasy art and writing",
       "link": "https://en.wikipedia.org/wiki/Elfwood",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1996",
+      "dateDefunct": "2016"
     },
     {
       "id": 31,
       "name": "Ello",
       "type": "Blog",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Ello",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "focus": "Private social network consisting of seven artists and programmers",
+      "link": "https://en.wikipedia.org/wiki/Ello_(social_network)",
+      "dateLaunch": "2014",
+      "dateDefunct": "2023"
     },
     {
       "id": 32,
       "name": "Emojli",
-      "type": "",
-      "focus": "",
+      "type": "Chat",
+      "focus": "Usernames could contain only emoji and users could only communicate using emoji within the app",
       "link": "https://en.wikipedia.org/wiki/Emojli",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2015"
     },
     {
       "id": 33,
       "name": "Eons.com",
-      "type": "",
+      "type": "Blog",
       "focus": "For baby boomers and ages 40+",
       "link": "https://en.wikipedia.org/wiki/Eons.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2012"
     },
     {
       "id": 34,
       "name": "Essembly",
-      "type": "",
-      "focus": "Politics",
+      "type": "Blog",
+      "focus": "Website that allowed its users to connect with one another based on political opinions",
       "link": "https://en.wikipedia.org/wiki/Essembly",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2010"
     },
     {
       "id": 35,
       "name": "Everloop",
-      "type": "",
+      "type": "Blog",
       "focus": "People under age 13",
       "link": "https://en.wikipedia.org/wiki/Everloop",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2014"
     },
     {
       "id": 36,
       "name": "eWorld",
-      "type": "",
-      "focus": "",
+      "type": "Email/Chat",
+      "focus": "Online service operated by Apple Inc.",
       "link": "https://en.wikipedia.org/wiki/eWorld",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1994",
+      "dateDefunct": "1996"
     },
     {
       "id": 37,
       "name": "Experience Project",
-      "type": "",
-      "focus": "Life experiences",
+      "type": "Blog",
+      "focus": "Sharing life experiences",
       "link": "https://en.wikipedia.org/wiki/Experience_Project",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2016"
     },
     {
       "id": 38,
       "name": "Eyegroove",
-      "type": "",
+      "type": "Video Sharing",
       "focus": "Creating short music videos with augmented reality effects",
       "link": "https://en.wikipedia.org/wiki/Eyegroove",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2013",
+      "dateDefunct": "2016"
     },
     {
       "id": 39,
@@ -356,62 +356,62 @@
       "type": "Bulletin board system",
       "focus": "Hosted user-created message boards",
       "link": "https://en.wikipedia.org/wiki/Ezboard",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1996",
+      "dateDefunct": "2011"
     },
     {
       "id": 40,
       "name": "FaceGlat",
-      "type": "",
-      "focus": "Haredi Jews",
+      "type": "Chat",
+      "focus": "Social network cater for Haredi Jews",
       "link": "https://en.wikipedia.org/wiki/FaceGlat",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2015?"
     },
     {
       "id": 41,
       "name": "Faves.com",
-      "type": "",
-      "focus": "Bookmarks",
+      "type": "Bookmark",
+      "focus": "the sofware allow users to \"fav\" webpage , making a link to the page part of their Faves profile",
       "link": "https://en.wikipedia.org/wiki/Faves.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2011"
     },
     {
       "id": 42,
       "name": "FFFFOUND!",
-      "type": "",
-      "focus": "Image recommendations",
+      "type": "Image Board",
+      "focus": "Share already existing images on the Internet and to receive personalized recommendations",
       "link": "https://en.wikipedia.org/wiki/FFFFOUND!",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2017"
     },
     {
       "id": 43,
       "name": "FitFinder",
-      "type": "",
+      "type": "Microblogging",
       "focus": "Anonymous UK student microblogging",
       "link": "https://en.wikipedia.org/wiki/FitFinder",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2010"
     },
     {
       "id": 44,
       "name": "Fling",
-      "type": "",
+      "type": "Messaging",
       "focus": "Sending images to random strangers all around the world, notoriously abused for sexting",
-      "link": "https://en.wikipedia.org/wiki/Fling",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Fling_(social_network)",
+      "dateLaunch": "2014",
+      "dateDefunct": "2016"
     },
     {
       "id": 45,
       "name": "Focus.com",
-      "type": "",
-      "focus": "Business professionals",
+      "type": "Blog",
+      "focus": "Business focused social networking platform and source of technology expertise",
       "link": "https://en.wikipedia.org/wiki/Focus.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2011"
     },
     {
       "id": 46,
@@ -419,80 +419,80 @@
       "type": "",
       "focus": "Grocery shopping and recipe discovery",
       "link": "https://en.wikipedia.org/wiki/Foodie.fm",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2022"
     },
     {
       "id": 47,
       "name": "Foodily.com",
-      "type": "",
+      "type": "Online Shopping",
       "focus": "Recipes",
       "link": "https://en.wikipedia.org/wiki/Foodily.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2022"
     },
     {
       "id": 48,
       "name": "Fotolog",
-      "type": "",
+      "type": "Blog",
       "focus": "Sharing photos",
       "link": "https://en.wikipedia.org/wiki/Fotolog",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2002",
+      "dateDefunct": "2020"
     },
     {
       "id": 49,
       "name": "FriendFeed",
-      "type": "",
-      "focus": "Feed aggregator",
+      "type": "Feed aggregator",
+      "focus": "Real-time feed aggregator that consolidated updates from social media and social networking websites",
       "link": "https://en.wikipedia.org/wiki/FriendFeed",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2015"
     },
     {
       "id": 50,
       "name": "Friends Reunited",
-      "type": "",
-      "focus": "Reunions",
+      "type": "Blog",
+      "focus": "Portfolio of social networking websites based upon the themes of reunion with research, dating and job-hunting",
       "link": "https://en.wikipedia.org/wiki/Friends_Reunited",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2000",
+      "dateDefunct": "2016"
     },
     {
       "id": 51,
       "name": "Friendster",
-      "type": "",
-      "focus": "Friends",
+      "type": "Blog/Chatting",
+      "focus": "Maintain those contacts, and share online content and media with those contacts",
       "link": "https://en.wikipedia.org/wiki/Friendster",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2002",
+      "dateDefunct": "2015"
     },
     {
       "id": 52,
       "name": "GamerDNA",
-      "type": "",
+      "type": "Blog",
       "focus": "Computer and video games",
       "link": "https://en.wikipedia.org/wiki/GamerDNA",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2011"
     },
     {
       "id": 53,
       "name": "Gather.com",
-      "type": "",
+      "type": "Blog",
       "focus": "Social, political and cultural topics",
       "link": "https://en.wikipedia.org/wiki/Gather.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2011"
     },
     {
       "id": 54,
       "name": "GEnie",
       "type": "Bulletin board system",
-      "focus": "",
+      "focus": "One of the pioneering services in the field, though eventually replaced by the World Wide Web and graphics-based services",
       "link": "https://en.wikipedia.org/wiki/GEnie",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1985",
+      "dateDefunct": "1999"
     },
     {
       "id": 55,
@@ -500,7 +500,7 @@
       "type": "",
       "focus": "Men",
       "link": "https://en.wikipedia.org/wiki/Gentlemint",
-      "dateLaunch": "??",
+      "dateLaunch": "2011",
       "dateDefunct": "??"
     },
     {
