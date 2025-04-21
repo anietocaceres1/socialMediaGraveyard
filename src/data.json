@@ -497,245 +497,245 @@
     {
       "id": 55,
       "name": "Gentlemint",
-      "type": "",
-      "focus": "Men",
+      "type": "Blog",
+      "focus": "Gentlemint is centered on the idea of finding, sharing and collecting \"manly\" content.",
       "link": "https://en.wikipedia.org/wiki/Gentlemint",
       "dateLaunch": "2011",
-      "dateDefunct": "??"
+      "dateDefunct": "2011?"
     },
     {
       "id": 56,
       "name": "Glee.com",
-      "type": "",
-      "focus": "LGBTQ",
+      "type": "Blog",
+      "focus": "social networking site geared toward LGBTQ people",
       "link": "https://en.wikipedia.org/wiki/Glee.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2010"
     },
     {
       "id": 57,
       "name": "Gogoyoko",
-      "type": "",
+      "type": "Blog/Online Shoping",
       "focus": "Musicians and music lovers.",
       "link": "https://en.wikipedia.org/wiki/Gogoyoko",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2014"
     },
     {
       "id": 58,
       "name": "Goodwizz",
-      "type": "",
+      "type": "Blog",
       "focus": "Matchmaking and personality games. Global, based in France.",
       "link": "https://en.wikipedia.org/wiki/Goodwizz",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2012"
     },
     {
       "id": 59,
       "name": "Google+",
       "type": "Blog",
-      "focus": "Microblogging",
+      "focus": "Microblogging, was launched in an attempt to challenge other social networks",
       "link": "https://en.wikipedia.org/wiki/Google+",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2019"
     },
     {
       "id": 60,
       "name": "Google Buzz",
-      "type": "",
-      "focus": "",
+      "type": "Blog/Messaging",
+      "focus": "share links, photos, videos, status messages and comments organized in \"conversations\"",
       "link": "https://en.wikipedia.org/wiki/Google_Buzz",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2011"
     },
     {
       "id": 61,
       "name": "Grono.net",
-      "type": "",
+      "type": "Blog",
       "focus": "Discussion forums, sharing photos, links to cultural events in particular cities, the sale of property and job searches.",
       "link": "https://en.wikipedia.org/wiki/Grono.net",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2012"
     },
     {
       "id": 62,
       "name": "Heello",
-      "type": "",
-      "focus": "Microblogging",
+      "type": "Blog",
+      "focus": "Microblogging, enabled its users to send and read text-based posts and to share pictures and videos",
       "link": "https://en.wikipedia.org/wiki/Heello",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2014"
     },
     {
       "id": 63,
       "name": "Hello",
-      "type": "",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Hello",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "Messaging and Blogging service",
+      "link": "https://en.wikipedia.org/wiki/Hello_(social_network)",
+      "dateLaunch": "2016",
+      "dateDefunct": "2022"
     },
     {
       "id": 64,
       "name": "Highlight",
-      "type": "",
-      "focus": "",
+      "type": "Messaging",
+      "focus": "The application finds nearby users and shows things they have in common with a user",
       "link": "https://en.wikipedia.org/wiki/Highlight",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2012",
+      "dateDefunct": "2015"
     },
     {
       "id": 65,
       "name": "Hive",
-      "type": "",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Hive",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "The app has been described as a hybrid between Twitter, Instagram and Tumblr",
+      "link": "https://en.wikipedia.org/wiki/Hive_Social",
+      "dateLaunch": "2019",
+      "dateDefunct": "2022"
     },
     {
       "id": 66,
       "name": "Hospitality Club",
-      "type": "",
+      "type": "Networking",
       "focus": "Hospex",
       "link": "https://en.wikipedia.org/wiki/Hospitality_Club",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2000",
+      "dateDefunct": "2024"
     },
     {
       "id": 67,
       "name": "Houseparty",
-      "type": "",
-      "focus": "Video chatting",
-      "link": "https://en.wikipedia.org/wiki/Houseparty",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Chatting",
+      "focus": "Enabled group video chatting through mobile and desktop apps",
+      "link": "https://en.wikipedia.org/wiki/Houseparty_(app)",
+      "dateLaunch": "2016",
+      "dateDefunct": "2021"
     },
     {
       "id": 68,
       "name": "Hyves",
-      "type": "",
-      "focus": "Social (Dutch)",
+      "type": "Blog",
+      "focus": "Dutch social media and social networking site with mainly Dutch visitors and members",
       "link": "https://en.wikipedia.org/wiki/Hyves",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2013"
     },
     {
       "id": 69,
       "name": "ICQ",
-      "type": "",
-      "focus": "",
+      "type": "Messaging",
+      "focus": "Was among the first stand-alone instant messenger (IM) applications—while real-time chat",
       "link": "https://en.wikipedia.org/wiki/ICQ",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1996",
+      "dateDefunct": "2024"
     },
     {
       "id": 70,
       "name": "IdeaPlane",
-      "type": "",
-      "focus": "",
+      "type": "Networking",
+      "focus": "Networking platform targeted financial institutions and other highly regulated industries",
       "link": "https://en.wikipedia.org/wiki/IdeaPlane",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2012"
     },
     {
       "id": 71,
       "name": "Itsmy",
-      "type": "",
+      "type": "Blog",
       "focus": "Mobile community for blogging, friends, and personal TV-shows",
       "link": "https://en.wikipedia.org/wiki/Itsmy",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2014"
     },
     {
       "id": 72,
       "name": "iTunes Ping",
-      "type": "",
-      "focus": "Music",
+      "type": "Blog",
+      "focus": "Music-oriented social networking and recommender system",
       "link": "https://en.wikipedia.org/wiki/iTunes_Ping",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2012"
     },
     {
       "id": 73,
       "name": "iTwixie",
-      "type": "",
+      "type": "Blog",
       "focus": "Social networking site for tween girls.",
       "link": "https://en.wikipedia.org/wiki/iTwixie",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2018?"
     },
     {
       "id": 74,
       "name": "iWiW",
       "type": "",
-      "focus": "Hungarian",
+      "focus": "Hungarian social networking",
       "link": "https://en.wikipedia.org/wiki/iWiW",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2002",
+      "dateDefunct": "2014"
     },
     {
       "id": 75,
       "name": "Jaiku",
-      "type": "",
+      "type": "Blog",
       "focus": "Microblogging and lifestreaming service",
       "link": "https://en.wikipedia.org/wiki/Jaiku",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2012"
     },
     {
       "id": 76,
       "name": "Jiepang",
-      "type": "",
+      "type": "Blog",
       "focus": "Location-based mobile. In Chinese.",
       "link": "https://en.wikipedia.org/wiki/Jiepang",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2016"
     },
     {
       "id": 77,
       "name": "JuiceCaster",
-      "type": "",
-      "focus": "Mobile app",
+      "type": "Blog/Messaging",
+      "focus": "Network specifically designed for use on a mobile device",
       "link": "https://en.wikipedia.org/wiki/JuiceCaster",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006?",
+      "dateDefunct": "2010?"
     },
     {
       "id": 78,
       "name": "Juvenation",
-      "type": "",
+      "type": "Blog",
       "focus": "People with type 1 diabetes",
       "link": "https://en.wikipedia.org/wiki/Juvenation",
-      "dateLaunch": "??",
+      "dateLaunch": "2008",
       "dateDefunct": "??"
     },
     {
       "id": 79,
       "name": "Keek",
-      "type": "",
+      "type": "Video Sharing",
       "focus": "Upload video status updates, which were called \"keeks\"",
       "link": "https://en.wikipedia.org/wiki/Keek",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2016"
     },
     {
       "id": 80,
       "name": "Kiwibox",
-      "type": "",
-      "focus": "Teenagers",
+      "type": "Blog",
+      "focus": "Social networking service for teenagers",
       "link": "https://en.wikipedia.org/wiki/Kiwibox",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2019"
     },
     {
       "id": 81,
       "name": "Koo",
-      "type": "",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Koo",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "Indian Microblogging and social newtworking service",
+      "link": "https://en.wikipedia.org/wiki/Koo_(social_network)",
+      "dateLaunch": "2019",
+      "dateDefunct": "2024"
     },
     {
       "id": 82,
@@ -743,53 +743,53 @@
       "type": "Academic",
       "focus": "Social studying network for college students",
       "link": "https://en.wikipedia.org/wiki/Koofers",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2019"
     },
     {
       "id": 83,
       "name": "Lifeknot",
-      "type": "",
+      "type": "Blog/Chat",
       "focus": "Shared interests, hobbies",
       "link": "https://en.wikipedia.org/wiki/Lifeknot",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2010"
     },
     {
       "id": 84,
       "name": "LinkExpats",
-      "type": "",
+      "type": "Blog",
       "focus": "Expatriates in 100+ countries",
       "link": "https://en.wikipedia.org/wiki/LinkExpats",
-      "dateLaunch": "??",
+      "dateLaunch": "2007",
       "dateDefunct": "??"
     },
     {
       "id": 85,
       "name": "Livemocha",
-      "type": "",
+      "type": "Academic/Chat",
       "focus": "Online language learning",
       "link": "https://en.wikipedia.org/wiki/Livemocha",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2016"
     },
     {
       "id": 86,
       "name": "LunarStorm",
-      "type": "",
+      "type": "Blog",
       "focus": "Swedish teenagers",
       "link": "https://en.wikipedia.org/wiki/LunarStorm",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2010"
     },
     {
       "id": 87,
       "name": "Makeoutclub",
-      "type": "",
-      "focus": "General",
+      "type": "Blog",
+      "focus": "Networking website catered to youth and indie music culture",
       "link": "https://en.wikipedia.org/wiki/Makeoutclub",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2017"
     },
     {
       "id": 88,
@@ -797,52 +797,52 @@
       "type": "Blog",
       "focus": "Microblogging in South Korea",
       "link": "https://en.wikipedia.org/wiki/Me2day",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2014"
     },
     {
       "id": 89,
       "name": "MeatballWiki",
       "type": "Wiki",
-      "focus": "",
+      "focus": "Online communities, network culture, and hypermedia",
       "link": "https://en.wikipedia.org/wiki/MeatballWiki",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2000",
+      "dateDefunct": "2013"
     },
     {
       "id": 90,
       "name": "Meerkat",
-      "type": "",
+      "type": "Blog",
       "focus": "Broadcast live video streaming through mobile devices",
-      "link": "https://en.wikipedia.org/wiki/Meerkat",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Meerkat_(app)",
+      "dateLaunch": "2015",
+      "dateDefunct": "2016"
     },
     {
       "id": 91,
       "name": "Meetro",
       "type": "MoSoSo",
-      "focus": "",
+      "focus": "Users could input location specifications to see other online users in surrounding areas",
       "link": "https://en.wikipedia.org/wiki/Meetro",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2007"
     },
     {
       "id": 92,
       "name": "Meez",
-      "type": "",
-      "focus": "Chat rooms",
+      "type": "Chat",
+      "focus": "Free-to-play virtual world with chat rooms",
       "link": "https://en.wikipedia.org/wiki/Meez",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2017"
     },
     {
       "id": 93,
       "name": "MemeStreams",
-      "type": "",
+      "type": "Blog",
       "focus": "Memes",
       "link": "https://en.wikipedia.org/wiki/MemeStreams",
-      "dateLaunch": "??",
+      "dateLaunch": "2001",
       "dateDefunct": "??"
     },
     {
@@ -851,116 +851,116 @@
       "type": "Itinerary sharing",
       "focus": "Metro travellers in India",
       "link": "https://en.wikipedia.org/wiki/MetroMates",
-      "dateLaunch": "??",
+      "dateLaunch": "2011",
       "dateDefunct": "??"
     },
     {
       "id": 95,
       "name": "MiGente.com",
-      "type": "",
-      "focus": "Hispanics",
+      "type": "Blog",
+      "focus": "Online social-networking site specifically targeting the Hispanic community",
       "link": "https://en.wikipedia.org/wiki/MiGente.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2000",
+      "dateDefunct": "2019"
     },
     {
       "id": 96,
       "name": "Miiverse",
-      "type": "",
+      "type": "Blog",
       "focus": "Video games, specifically those released on the Nintendo 3DS or Wii U",
       "link": "https://en.wikipedia.org/wiki/Miiverse",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2012",
+      "dateDefunct": "2013"
     },
     {
       "id": 97,
       "name": "Mivasocial",
-      "type": "",
-      "focus": "Africans",
+      "type": "Blog",
+      "focus": "Social networking platform for African communities around the world",
       "link": "https://en.wikipedia.org/wiki/Mivasocial",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2016?"
     },
     {
       "id": 98,
       "name": "MixBit",
-      "type": "",
-      "focus": "",
+      "type": "Video Sahring",
+      "focus": "Users could create dynamic shared videos, and competed with TikTok",
       "link": "https://en.wikipedia.org/wiki/MixBit",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2013",
+      "dateDefunct": "2018"
     },
     {
       "id": 99,
       "name": "Mixx",
-      "type": "",
+      "type": "Social media platform where peers could publish or find material based on their interests and location",
       "focus": "Blogs",
       "link": "https://en.wikipedia.org/wiki/Mixx",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2011"
     },
     {
       "id": 100,
       "name": "Mobli",
-      "type": "",
+      "type": "Video Sharing/Blog",
       "focus": "Social mobile photo and video-sharing website",
       "link": "https://en.wikipedia.org/wiki/Mobli",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2016"
     },
     {
       "id": 101,
       "name": "MOG",
-      "type": "",
-      "focus": "Music",
-      "link": "https://en.wikipedia.org/wiki/MOG",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "Subscription online blog network, where subscribers could listen to and read about music",
+      "link": "https://en.wikipedia.org/wiki/MOG_(online_music)",
+      "dateLaunch": "2005",
+      "dateDefunct": "2014"
     },
     {
       "id": 102,
       "name": "Mugshot",
-      "type": "",
+      "type": "Blog",
       "focus": "Aggregator from Red Hat, with compatible desktop software and an official Firefox plugin",
-      "link": "https://en.wikipedia.org/wiki/Mugshot",
-      "dateLaunch": "??",
+      "link": "https://en.wikipedia.org/wiki/Mugshot_(website)",
+      "dateLaunch": "2009",
       "dateDefunct": "??"
     },
     {
       "id": 103,
       "name": "Multiply",
-      "type": "",
+      "type": "Blog",
       "focus": "Real world sharing",
-      "link": "https://en.wikipedia.org/wiki/Multiply",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Multiply_(website)",
+      "dateLaunch": "2003",
+      "dateDefunct": "2013"
     },
     {
       "id": 104,
       "name": "Mulu",
-      "type": "",
+      "type": "Blog",
       "focus": "Product recommendations",
       "link": "https://en.wikipedia.org/wiki/Mulu",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2012"
     },
     {
       "id": 105,
       "name": "Musical.ly",
-      "type": "",
+      "type": "Video Sharing",
       "focus": "Social media video app for short lip-sync, comedy, and talent videos",
       "link": "https://en.wikipedia.org/wiki/Musical.ly",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2017"
     },
     {
       "id": 106,
       "name": "MyMFB",
-      "type": "",
-      "focus": "Muslims",
+      "type": "Blog",
+      "focus": "Muslim-oriented social networking website",
       "link": "https://en.wikipedia.org/wiki/MyMFB",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2013"
     },
     {
       "id": 107,
@@ -968,98 +968,98 @@
       "type": "Blog",
       "focus": "Blogging, mobile blogging, photo sharing, connecting with friends, Opera Link and Opera Unite.",
       "link": "https://en.wikipedia.org/wiki/My_Opera",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2001",
+      "dateDefunct": "2014"
     },
     {
       "id": 108,
       "name": "MyVetwork",
-      "type": "",
-      "focus": "Military veterans",
+      "type": "Blog",
+      "focus": "Online community serving Military veterans",
       "link": "https://en.wikipedia.org/wiki/MyVetwork",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2009"
     },
     {
       "id": 109,
       "name": "Natter Social Network",
-      "type": "",
+      "type": "Blog",
       "focus": "micro-microblogging",
       "link": "https://en.wikipedia.org/wiki/Natter_Social_Network",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2018"
     },
     {
       "id": 110,
       "name": "Naymz",
-      "type": "",
-      "focus": "Professional networking",
+      "type": "Networking",
+      "focus": "The plataform allowed users to network with other professionals and manage their online reputation",
       "link": "https://en.wikipedia.org/wiki/Naymz",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2017"
     },
     {
       "id": 111,
       "name": "Nearby",
-      "type": "",
-      "focus": "People nearby",
+      "type": "Blog",
+      "focus": "Location-based social networking service ",
       "link": "https://en.wikipedia.org/wiki/Nearby",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2021"
     },
     {
       "id": 112,
       "name": "Netlog",
-      "type": "",
+      "type": "Blog",
       "focus": "Belgians",
       "link": "https://en.wikipedia.org/wiki/Netlog",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2018"
     },
     {
       "id": 113,
       "name": "Netropolitan Club",
-      "type": "",
-      "focus": "Wealthy people",
+      "type": "Blog",
+      "focus": "social network  for wealthy people",
       "link": "https://en.wikipedia.org/wiki/Netropolitan_Club",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2014"
     },
     {
       "id": 114,
       "name": "Nettby",
-      "type": "",
-      "focus": "Norwegians",
+      "type": "Blog",
+      "focus": "Second largest Internet-based community in Norway",
       "link": "https://en.wikipedia.org/wiki/Nettby",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2010"
     },
     {
       "id": 115,
       "name": "NK.pl",
-      "type": "",
+      "type": "Education",
       "focus": "School, college and friends in Poland",
       "link": "https://en.wikipedia.org/wiki/NK.pl",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2021"
     },
     {
       "id": 116,
       "name": "Omegle",
-      "type": "",
+      "type": "Chat",
       "focus": "Video chatting",
       "link": "https://en.wikipedia.org/wiki/Omegle",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2023"
     },
     {
       "id": 117,
       "name": "Orkut",
-      "type": "",
+      "type": "Blog",
       "focus": "First social networking service by Google",
       "link": "https://en.wikipedia.org/wiki/Orkut",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2014"
     },
     {
       "id": 118,
@@ -1073,61 +1073,61 @@
     {
       "id": 119,
       "name": "Periscope",
-      "type": "",
-      "focus": "Video streaming",
-      "link": "https://en.wikipedia.org/wiki/Periscope",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Video streaming",
+      "focus": "video streaming app for Android and iOS developed by Kayvon Beykpour and Joe Bernstein",
+      "link": "https://en.wikipedia.org/wiki/Periscope_(service)",
+      "dateLaunch": "2015",
+      "dateDefunct": "2020"
     },
     {
       "id": 120,
       "name": "Pheed",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Mobile pay-per-view technology and social networking service",
       "link": "https://en.wikipedia.org/wiki/Pheed",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2012",
+      "dateDefunct": "2014"
     },
     {
       "id": 121,
       "name": "Piczo",
-      "type": "",
+      "type": "Blog",
       "focus": "Blogging website for teens; bought by  Posh Media Group",
       "link": "https://en.wikipedia.org/wiki/Piczo",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2012"
     },
     {
       "id": 122,
       "name": "Planet Cancer",
-      "type": "",
-      "focus": "Young adults with cancer",
+      "type": "Blog",
+      "focus": "Online community for young adults with cancer",
       "link": "https://en.wikipedia.org/wiki/Planet_Cancer",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007?",
+      "dateDefunct": "2009"
     },
     {
       "id": 123,
       "name": "PlanetAll",
-      "type": "",
+      "type": "Blog",
       "focus": "Calendar and address site",
       "link": "https://en.wikipedia.org/wiki/PlanetAll",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1996",
+      "dateDefunct": "2000"
     },
     {
       "id": 124,
       "name": "Plaxo",
-      "type": "",
-      "focus": "Aggregator",
+      "type": "Address book",
+      "focus": "Online address book",
       "link": "https://en.wikipedia.org/wiki/Plaxo",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2002",
+      "dateDefunct": "2017"
     },
     {
       "id": 125,
       "name": "Player.me",
-      "type": "",
+      "type": "Blog",
       "focus": "Video games, now entertaiment news",
       "link": "https://en.wikipedia.org/wiki/Player.me",
       "dateLaunch": "??",
@@ -1136,119 +1136,119 @@
     {
       "id": 126,
       "name": "Playfire",
-      "type": "",
+      "type": "Blog",
       "focus": "Computer and video games",
       "link": "https://en.wikipedia.org/wiki/Playfire",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2017"
     },
     {
       "id": 127,
       "name": "Playlist.com",
-      "type": "",
-      "focus": "Music",
+      "type": "Music",
+      "focus": "Commercial-free Internet radio service",
       "link": "https://en.wikipedia.org/wiki/Playlist.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2015"
     },
     {
       "id": 128,
       "name": "Posterous",
-      "type": "",
+      "type": "Blog",
       "focus": "Blogging platform",
       "link": "https://en.wikipedia.org/wiki/Posterous",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2013"
     },
     {
       "id": 129,
       "name": "Poupéegirl",
-      "type": "",
-      "focus": "Japanese avatars",
+      "type": "Blog",
+      "focus": "Japanese avatar and fashion community where users upload photos of their clothes",
       "link": "https://en.wikipedia.org/wiki/Poupéegirl",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2015"
     },
     {
       "id": 130,
       "name": "Pownce",
-      "type": "",
+      "type": "Blog",
       "focus": "Microblogging application (similar to Twitter)",
       "link": "https://en.wikipedia.org/wiki/Pownce",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2008"
     },
     {
       "id": 131,
       "name": "Qaiku",
-      "type": "",
+      "type": "Blog",
       "focus": "Micro-blogging and live-streaming service comparable to Twitter and Jaiku",
       "link": "https://en.wikipedia.org/wiki/Qaiku",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2012"
     },
     {
       "id": 132,
       "name": "Quechup",
-      "type": "",
+      "type": "Blog",
       "focus": "Friendship, dating",
       "link": "https://en.wikipedia.org/wiki/Quechup",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2009?"
     },
     {
       "id": 133,
       "name": "Raptr",
-      "type": "",
-      "focus": "Video games",
+      "type": "Messaging",
+      "focus": "Social-networking website and instant messenger centered on video games",
       "link": "https://en.wikipedia.org/wiki/Raptr",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2017"
     },
     {
       "id": 134,
       "name": "Rentboy.com",
-      "type": "",
-      "focus": "Male sex workers",
+      "type": "Commercial",
+      "focus": "Commercial social networking site that connected male sex workers and masseurs with potential clients",
       "link": "https://en.wikipedia.org/wiki/Rentboy.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1997",
+      "dateDefunct": "2015"
     },
     {
       "id": 135,
       "name": "Rupture",
-      "type": "",
-      "focus": "Gamers",
-      "link": "https://en.wikipedia.org/wiki/Rupture",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "Social networking site for gamers",
+      "link": "https://en.wikipedia.org/wiki/Rupture_(social_networking)",
+      "dateLaunch": "2006",
+      "dateDefunct": "2008"
     },
     {
       "id": 136,
       "name": "Sarahah",
-      "type": "",
+      "type": "Messaging",
       "focus": "Feedback from friends and coworkers",
       "link": "https://en.wikipedia.org/wiki/Sarahah",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2016",
+      "dateDefunct": "2021"
     },
     {
       "id": 137,
       "name": "ScuttlePad",
-      "type": "",
+      "type": "Blog",
       "focus": "Children aged 6–11",
       "link": "https://en.wikipedia.org/wiki/ScuttlePad",
-      "dateLaunch": "??",
+      "dateLaunch": "2010",
       "dateDefunct": "??"
     },
     {
       "id": 138,
       "name": "Shelfari",
-      "type": "",
-      "focus": "Books",
+      "type": "Reviews",
+      "focus": "Virtual bookshelves of the titles they owned or had read,  and rate their books",
       "link": "https://en.wikipedia.org/wiki/Shelfari",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2016"
     },
     {
       "id": 139,
@@ -1262,268 +1262,268 @@
     {
       "id": 140,
       "name": "SkillPages",
-      "type": "",
+      "type": "Networking",
       "focus": "Skilled people",
       "link": "https://en.wikipedia.org/wiki/SkillPages",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1997",
+      "dateDefunct": "2000"
     },
     {
       "id": 141,
       "name": "Skyrock",
-      "type": "",
-      "focus": "French-speaking world",
-      "link": "https://en.wikipedia.org/wiki/Skyrock",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "French-speaking social networking service",
+      "link": "https://en.wikipedia.org/wiki/Skyrock_(social_network_site)",
+      "dateLaunch": "2002",
+      "dateDefunct": "2023"
     },
     {
       "id": 142,
       "name": "Snip.it",
-      "type": "",
-      "focus": "Articles, videos, and images",
+      "type": "Blog",
+      "focus": "Platform for creating collections articles, videos, and images",
       "link": "https://en.wikipedia.org/wiki/Snip.it",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2014"
     },
     {
       "id": 143,
       "name": "SocialVibe (TrueX)",
-      "type": "",
-      "focus": "Charity",
+      "type": "Blog",
+      "focus": "American digital advertising company founded",
       "link": "https://en.wikipedia.org/wiki/SocialVibe",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2020"
     },
     {
       "id": 144,
       "name": "So.cl",
-      "type": "",
-      "focus": "Millennials; made by Microsoft FUSE Labs.",
+      "type": "Blog",
+      "focus": "Social networking service and social search engine operated by Microsoft FUSE Labs",
       "link": "https://en.wikipedia.org/wiki/So.cl",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2017"
     },
     {
       "id": 145,
       "name": "Sonico.com",
-      "type": "",
+      "type": "Blog",
       "focus": "Latin America and Spanish and Portuguese speaking regions",
       "link": "https://en.wikipedia.org/wiki/Sonico.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2008"
     },
     {
       "id": 146,
       "name": "Soup.io",
-      "type": "",
+      "type": "Blog",
       "focus": "Microblogging",
       "link": "https://en.wikipedia.org/wiki/Soup.io",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2009"
     },
     {
       "id": 147,
       "name": "Spire",
-      "type": "",
+      "type": "Blog",
       "focus": "Personal accomplishments",
-      "link": "https://en.wikipedia.org/wiki/Spire",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Spire_(social_networking_service)",
+      "dateLaunch": "2011",
+      "dateDefunct": "2013?"
     },
     {
       "id": 148,
       "name": "Spring.me",
-      "type": "",
+      "type": "Metting",
       "focus": "Meeting people",
       "link": "https://en.wikipedia.org/wiki/Spring.me",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2013"
     },
     {
       "id": 149,
       "name": "Stickam",
-      "type": "",
+      "type": "Streaming",
       "focus": "Live video streaming and chat.",
       "link": "https://en.wikipedia.org/wiki/Stickam",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2013"
     },
     {
       "id": 150,
       "name": "StockPickr",
-      "type": "",
-      "focus": "Stock picks",
+      "type": "Blog",
+      "focus": "Sharing stock picks, financial analysis, research, news, and commentary",
       "link": "https://en.wikipedia.org/wiki/StockPickr",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2007"
     },
     {
       "id": 151,
       "name": "Streetlife",
-      "type": "",
-      "focus": "Location-based",
-      "link": "https://en.wikipedia.org/wiki/Streetlife",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "British website that linked users together based on the neighbourhood where they live",
+      "link": "https://en.wikipedia.org/wiki/Streetlife_(website)",
+      "dateLaunch": "2008",
+      "dateDefunct": "2017"
     },
     {
       "id": 152,
       "name": "Students Circle Network",
-      "type": "",
-      "focus": "Connected students, teachers and institutions to course resources and study groups.",
+      "type": "Blog",
+      "focus": "Connected students, teachers and institutions to course resources and study groups",
       "link": "https://en.wikipedia.org/wiki/Students_Circle_Network",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2012"
     },
     {
       "id": 153,
       "name": "StudiVZ",
-      "type": "",
+      "type": "Blog",
       "focus": "University students, mostly in German-speaking countries",
       "link": "https://en.wikipedia.org/wiki/StudiVZ",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2022"
     },
     {
       "id": 154,
       "name": "StumbleUpon",
-      "type": "",
+      "type": "Blog",
       "focus": "Web pages, photos, and videos",
       "link": "https://en.wikipedia.org/wiki/StumbleUpon",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2001",
+      "dateDefunct": "2018"
     },
     {
       "id": 155,
       "name": "Surfbook",
-      "type": "",
-      "focus": "Netherlands",
+      "type": "Blog",
+      "focus": "Created by Dutch programmer Joannes Jozef Everardus van der Meer in the years prior to his death",
       "link": "https://en.wikipedia.org/wiki/Surfbook",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2016"
     },
     {
       "id": 156,
       "name": "Talkbiznow",
-      "type": "",
+      "type": "Networking",
       "focus": "Business networking",
       "link": "https://en.wikipedia.org/wiki/Talkbiznow",
-      "dateLaunch": "??",
+      "dateLaunch": "2008",
       "dateDefunct": "??"
     },
     {
       "id": 157,
       "name": "Talenthouse",
-      "type": "",
+      "type": "Blog",
       "focus": "Creative collaboration",
       "link": "https://en.wikipedia.org/wiki/Talenthouse",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2022"
     },
     {
       "id": 158,
       "name": "Taltopia",
-      "type": "",
-      "focus": "Artists / fans / talent professionals",
+      "type": "Blog",
+      "focus": "Online artistic community which connected aspiring artists with fans and talent industry professionals",
       "link": "https://en.wikipedia.org/wiki/Taltopia",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2008",
+      "dateDefunct": "2008?"
     },
     {
       "id": 159,
       "name": "tbh",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Anonymous social media app available in the United States",
       "link": "https://en.wikipedia.org/wiki/tbh",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2017",
+      "dateDefunct": "2022"
     },
     {
       "id": 160,
       "name": "Tea Party Community",
-      "type": "",
-      "focus": "Conservatism in the United States",
+      "type": "Blog",
+      "focus": "Website intended as an alternative to Facebook for use by American conservatives",
       "link": "https://en.wikipedia.org/wiki/Tea_Party_Community",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2013",
+      "dateDefunct": "2013?"
     },
     {
       "id": 161,
       "name": "TOTSE",
       "type": "Bulletin board system",
-      "focus": "Controversial files",
+      "focus": "Storing text files on a variety of subjects and viewpoints, many of which were unusual or controversial",
       "link": "https://en.wikipedia.org/wiki/TOTSE",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1989",
+      "dateDefunct": "2009"
     },
     {
       "id": 162,
       "name": "Tout",
-      "type": "",
-      "focus": "",
-      "link": "https://en.wikipedia.org/wiki/Tout",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "type": "Blog",
+      "focus": "Microblogging service that enabled its users to send and view 15-second videos",
+      "link": "https://en.wikipedia.org/wiki/Tout_(company)",
+      "dateLaunch": "1989",
+      "dateDefunct": "2009"
     },
     {
       "id": 163,
       "name": "TravBuddy.com",
-      "type": "",
-      "focus": "Travel",
+      "type": "Blog",
+      "focus": "Social networking website specializing in connecting travellers",
       "link": "https://en.wikipedia.org/wiki/TravBuddy.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2018"
     },
     {
       "id": 164,
       "name": "Travel Companion Exchange",
-      "type": "",
-      "focus": "Travel companions",
+      "type": "Matching service",
+      "focus": "Travel companion matching service",
       "link": "https://en.wikipedia.org/wiki/Travel_Companion_Exchange",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1982?",
+      "dateDefunct": "2003"
     },
     {
       "id": 165,
       "name": "tribe.net",
-      "type": "",
-      "focus": "Friends networks",
+      "type": "Blog",
+      "focus": "Website that hosted an online community, or tribe of friends, similar to other social networking sites",
       "link": "https://en.wikipedia.org/wiki/tribe.net",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2003",
+      "dateDefunct": "2017"
     },
     {
       "id": 166,
-      "name": "Tsu",
-      "type": "",
+      "name": "Tsu(Display)",
+      "type": "Messaging/Blog",
       "focus": "Message, photos",
-      "link": "https://en.wikipedia.org/wiki/Tsu",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Display_(social_network)",
+      "dateLaunch": "2019",
+      "dateDefunct": "2021"
     },
     {
       "id": 167,
       "name": "Twoo.com",
-      "type": "",
-      "focus": "Entertainment",
+      "type": "Blog",
+      "focus": "Users create profiles, upload pictures and chat with other users",
       "link": "https://en.wikipedia.org/wiki/Twoo.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2011",
+      "dateDefunct": "2022"
     },
     {
       "id": 168,
       "name": "tvtag",
-      "type": "",
-      "focus": "Entertainment",
+      "type": "Blog",
+      "focus": "Social networking website and mobile app for television fans",
       "link": "https://en.wikipedia.org/wiki/tvtag",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2010",
+      "dateDefunct": "2015"
     },
     {
       "id": 169,
       "name": "Vampirefreaks.com",
-      "type": "",
+      "type": "Blog",
       "focus": "Gothic and industrial subculture",
       "link": "https://en.wikipedia.org/wiki/Vampirefreaks.com",
       "dateLaunch": "??",
@@ -1532,92 +1532,92 @@
     {
       "id": 170,
       "name": "Vine",
-      "type": "",
+      "type": "Video Streaming",
       "focus": "Social media video app for short lip-sync, comedy, and talent videos",
-      "link": "https://en.wikipedia.org/wiki/Vine",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "link": "https://en.wikipedia.org/wiki/Vine_(service)",
+      "dateLaunch": "2012",
+      "dateDefunct": "2017"
     },
     {
       "id": 171,
       "name": "Virb",
-      "type": "",
+      "type": "Blog",
       "focus": "Artists, including musicians and photographers",
       "link": "https://en.wikipedia.org/wiki/Virb",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2020"
     },
     {
       "id": 172,
       "name": "Voat",
-      "type": "",
+      "type": "Blog",
       "focus": "Censor free reddit clone",
       "link": "https://en.wikipedia.org/wiki/Voat",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2020"
     },
     {
       "id": 173,
       "name": "Vox",
       "type": "Blog",
-      "focus": "Blogging",
+      "focus": "Internet blogging service run by Six Apart.",
       "link": "https://en.wikipedia.org/wiki/Vox_(blogging_platform)",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2014"
     },
     {
       "id": 174,
       "name": "WeeWorld",
-      "type": "",
-      "focus": "Teenagers aged 9 to 17",
+      "type": "Messaging/Networking",
+      "focus": "networking and messaging website for teenagers aged 9 to 17",
       "link": "https://en.wikipedia.org/wiki/WeeWorld",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2000",
+      "dateDefunct": "2017"
     },
     {
       "id": 175,
       "name": "Werkenntwen",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "German social networking site. TechCrunch once compared it to Myspace",
       "link": "https://en.wikipedia.org/wiki/Werkenntwen",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2014"
     },
     {
       "id": 176,
       "name": "Windows Live Messenger",
-      "type": "Instant messaging",
-      "focus": "",
+      "type": "Messaging",
+      "focus": "Cross-platform instant-messaging client developed by Microsoft",
       "link": "https://en.wikipedia.org/wiki/Windows_Live_Messenger",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2012"
     },
     {
       "id": 177,
       "name": "Windows Live Spaces",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Microsoft's blogging platform and social network service",
       "link": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2004",
+      "dateDefunct": "2010"
     },
     {
       "id": 178,
       "name": "Woo Media",
-      "type": "",
-      "focus": "Entertainment",
+      "type": "Chat",
+      "focus": "Online chat and video social network which offered a variety of interactive sites",
       "link": "https://en.wikipedia.org/wiki/Woo_Media",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2011"
     },
     {
       "id": 179,
       "name": "Wretch",
       "type": "Blog",
-      "focus": "Taiwan",
-      "link": "https://en.wikipedia.org/wiki/Wretch",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "focus": "Taiwanese community website",
+      "link": "https://en.wikipedia.org/wiki/Wretch_(website)",
+      "dateLaunch": "2007",
+      "dateDefunct": "2013"
     },
     {
       "id": 180,
@@ -1625,71 +1625,71 @@
       "type": "Blog",
       "focus": "Blogs and \"metro\" areas",
       "link": "https://en.wikipedia.org/wiki/Xanga",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1999",
+      "dateDefunct": "2013"
     },
     {
       "id": 181,
       "name": "Yahoo! 360°",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Social networking and personal communication portal operated by Yahoo!",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_360°",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2008"
     },
     {
       "id": 182,
       "name": "Yahoo! Answers",
-      "type": "",
-      "focus": "",
+      "type": "Q&A",
+      "focus": "Community-driven question-and-answer (Q&A) website or knowledge market owned by Yahoo! ",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Answers",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2005",
+      "dateDefunct": "2021"
     },
     {
       "id": 183,
       "name": "Yahoo! GeoCities",
       "type": "WorldWideWeb",
-      "focus": "",
+      "focus": "Web hosting service that allowed users to create and publish websites for free",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_GeoCities",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1994",
+      "dateDefunct": "2009"
     },
     {
       "id": 184,
       "name": "Yahoo! Kickstart",
-      "type": "",
-      "focus": "",
+      "type": "Networking",
+      "focus": "professional network for college students, recent graduates, employers and alumni",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Kickstart",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2008"
     },
     {
       "id": 185,
       "name": "Yahoo! Mash",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Social networking service by Yahoo!",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Mash",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2007",
+      "dateDefunct": "2008"
     },
     {
       "id": 186,
       "name": "Yahoo! Meme",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Microblogging site launched by the Yahoo Latin America team ",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Meme",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2009",
+      "dateDefunct": "2012"
     },
     {
       "id": 187,
       "name": "Yahoo! Messenger",
-      "type": "Instant messaging",
-      "focus": "",
+      "type": "Messaging",
+      "focus": "Instant messaging client and associated protocol created and formerly operated by Yahoo!",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Messenger",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1998",
+      "dateDefunct": "2018"
     },
     {
       "id": 188,
@@ -1703,19 +1703,19 @@
     {
       "id": 189,
       "name": "Yookos",
-      "type": "",
+      "type": "Blog",
       "focus": "Photos, videos, blogs, games",
       "link": "https://en.wikipedia.org/wiki/Yookos",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2016"
     },
     {
       "id": 190,
       "name": "Zoopy",
-      "type": "",
+      "type": "Blog",
       "focus": "Share videos, photos and audio clips",
       "link": "https://en.wikipedia.org/wiki/Zoopy",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2006",
+      "dateDefunct": "2012"
     }
   ]
