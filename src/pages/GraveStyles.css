@@ -1,0 +1,10 @@
+.typeStyle{
+    display: inline-block;
+    margin: auto;
+    background-color: whitesmoke;
+    color: #242424;
+    padding: 8px;
+    border-radius: 6px;
+    max-width: 90%;
+    text-align: center;
+}

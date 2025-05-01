@@ -6,6 +6,7 @@ import Header from './components/Header.jsx'
 import AsSeenOn from './components/AsSeenOn.jsx'
 import WebInfo from './components/WebInfo.jsx'
 import './App.css'
+import data from './data.json'
 
 /*
 const[socialMediaList, setSocialMediaList] = useState([]);
@@ -20,9 +21,13 @@ function App() {
   const [count, setCount] = useState(0)
 
   useEffect(() => {
+
+    /*
     const initialState = JSON.parse(localStorage.getItem('data'))
 
+
     if (initialState) {
+      console.log(initialState)
       setTableData(initialState)
     } else {
       try {
@@ -31,6 +36,7 @@ function App() {
         ).then(response => response.json())
           //.then(data => console.log(data))  
           .then(json => {
+
 
             const parser = new DOMParser();
             const htmlDoc = parser.parseFromString(json.parse.text['*'], 'text/html');
@@ -67,17 +73,27 @@ function App() {
         console.error('Error fetching Wikipedia data:', error);
       }
     }
+    */
+
+    setTableData(data)
+
+    console.log(tableData)
+    console.log(data)
 
 
 
 
   }, []);
 
+  /*
+
   useEffect(() => {
     if (tableData.length > 0) {
       localStorage.setItem('data', JSON.stringify(tableData))
     }
   }, [tableData])
+
+  */
 
 
 
@@ -87,7 +103,7 @@ function App() {
       {isLoading ? (
         <h1 className="loading">Loading...</h1>
       ) : (
-        <GraveYard getGraves={tableData[0]} />
+        <GraveYard getGraves={tableData} />
       )}
       <AsSeenOn/>
       <WebInfo/>

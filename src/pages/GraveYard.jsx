@@ -1,4 +1,5 @@
 import { RiCrossFill } from "react-icons/ri";
+import './GraveStyles.css'
 
 function Grave({myGrave}){
 
@@ -19,7 +20,8 @@ function Grave({myGrave}){
         <div className="grave">
             <RiCrossFill size={40}/>
             <h2><a href={hrefName}>{myGrave.name}</a></h2>         
-            <p>{myGrave.type}</p>
+            <p className="typeStyle">{myGrave.type}</p>
+            <p>{myGrave.dateLaunch}  -  {myGrave.dateDefunct}</p>
             <p>{myGrave.focus}</p>
         </div>
         </>
@@ -39,7 +41,7 @@ function GraveYard({getGraves}) {
                 // usando el id de cada pokemon:
 
                 //data.types[0].type.name
-                console.log(grave.id)
+                //console.log(grave.id)
                 return (
                     <div key={grave.id}>
                         <Grave myGrave={grave} />

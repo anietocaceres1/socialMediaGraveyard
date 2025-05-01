@@ -12,7 +12,7 @@
       "id": 1,
       "name": "360voice",
       "type": "Blog",
-      "focus": "",
+      "focus": "Social Network center on videogames",
       "link": "https://en.wikipedia.org/wiki/360voice",
       "dateLaunch": "2006",
       "dateDefunct": "2011"
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "43 Things",
-      "type": "",
+      "type": "Blog",
       "focus": "Goal setting and achievement",
       "link": "https://en.wikipedia.org/wiki/43_Things",
       "dateLaunch": "2005",
@@ -29,7 +29,7 @@
     {
       "id": 3,
       "name": "Advogato",
-      "type": "",
+      "type": "Blog",
       "focus": "Free software and open source software development",
       "link": "https://en.wikipedia.org/wiki/Advogato",
       "dateLaunch": "1999",
@@ -39,7 +39,7 @@
       "id": 4,
       "name": "AIM",
       "type": "Instant messaging",
-      "focus": "",
+      "focus": "Used the proprietary OSCAR instant messaging protocol and the TOC protocol to allow users to communicate in real time",
       "link": "https://en.wikipedia.org/wiki/AIM_(software)",
       "dateLaunch": "1997",
       "dateDefunct": "2017"
@@ -47,8 +47,8 @@
     {
       "id": 5,
       "name": "Amen",
-      "type": "",
-      "focus": "",
+      "type": "Blog",
+      "focus": "Noted for its addictive, mad lib-like feel and ability to create structured data",
       "link": "https://en.wikipedia.org/wiki/Amen_(website)",
       "dateLaunch": "2011",
       "dateDefunct": "2015"
@@ -56,7 +56,7 @@
     {
       "id": 6,
       "name": "Amina – Chechen Republic Online",
-      "type": "",
+      "type": "Blog",
       "focus": "Chechen diaspora community",
       "link": "https://en.wikipedia.org/wiki/Amina_-_Chechen_Republic_Online",
       "dateLaunch": "1997",
@@ -66,7 +66,7 @@
       "id": 7,
       "name": "App.net",
       "type": "Blog",
-      "focus": "Microblogging",
+      "focus": "Microblogging with up to 256 characters. Provided their own web interface to the service",
       "link": "https://en.wikipedia.org/wiki/App.net",
       "dateLaunch": "2012",
       "dateDefunct": "2017"
@@ -74,8 +74,8 @@
     {
       "id": 8,
       "name": "AsianAve",
-      "type": "",
-      "focus": "Asian Americans",
+      "type": "Blog",
+      "focus": "Social networking service that focused on Asian Americans",
       "link": "https://en.wikipedia.org/wiki/AsianAve",
       "dateLaunch": "1997",
       "dateDefunct": "2007"
@@ -83,8 +83,8 @@
     {
       "id": 9,
       "name": "Ask.fm",
-      "type": "",
-      "focus": "Anonymous chat",
+      "type": "Q&A",
+      "focus": "Latvian question and answer network",
       "link": "https://en.wikipedia.org/wiki/Ask.fm",
       "dateLaunch": "2010",
       "dateDefunct": "2024"
@@ -92,8 +92,8 @@
     {
       "id": 10,
       "name": "Audimated",
-      "type": "",
-      "focus": "Independent music",
+      "type": "Blog",
+      "focus": "Ocial networking website for independent musicians and their fans",
       "link": "https://en.wikipedia.org/wiki/Audimated",
       "dateLaunch": "2010",
       "dateDefunct": "??"
@@ -101,8 +101,8 @@
     {
       "id": 11,
       "name": "Avatars United",
-      "type": "",
-      "focus": "Online games",
+      "type": "Blog/Virtual World",
+      "focus": "Web community for avatars of online games and virtual worlds",
       "link": "https://en.wikipedia.org/wiki/Avatars_United",
       "dateLaunch": "2008",
       "dateDefunct": "2010"
@@ -1253,17 +1253,17 @@
     {
       "id": 139,
       "name": "Sixdegrees.com",
-      "type": "",
-      "focus": "Web of contacts",
+      "type": "Blog",
+      "focus": "Allowed users to list friends, family members and acquaintances whether registered on the site or not",
       "link": "https://en.wikipedia.org/wiki/Sixdegrees.com",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1997",
+      "dateDefunct": "200"
     },
     {
       "id": 140,
       "name": "SkillPages",
       "type": "Networking",
-      "focus": "Skilled people",
+      "focus": "Social platform for finding skilled people",
       "link": "https://en.wikipedia.org/wiki/SkillPages",
       "dateLaunch": "1997",
       "dateDefunct": "2000"
