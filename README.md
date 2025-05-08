@@ -1,12 +1,24 @@
-# React + Vite
+# SOCIAL MEDIA GRAVEYARD
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This web is to show all the Social Networks that are not longer on the Word Wide Web.
 
-Currently, two official plugins are available:
+All the information is in the file data.json, you can add any information following the following strocture:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    {
+      "id": 0,
+      "name": "2channel",
+      "type": "Textboard",
+      "focus": "Japanese Image Board",
+      "link": "https://en.wikipedia.org/wiki/2channel",
+      "dateLaunch": "1999",
+      "dateDefunct": "2014"
+    },
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Id: Id of the web inside the json
+- name: oficial name of the Website 
+- Type: type of the social network, what's was it's oficial function. 
+    - Imageboard: Web sites focused on posting images often alongside text, similar to 4chan.
+    - Blog: Web site that allows users to share text, images, and videos. Ex: Twitter, Facebook
+    - Messanging: Web services that allow users to talk to each other using messages. Ex: Messenger
+    - Chat: Offers private and public text or video chatting services.
+    - Video Sharing: Focused on posting and sharing videos.
