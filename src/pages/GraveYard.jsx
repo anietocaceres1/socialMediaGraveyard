@@ -21,7 +21,7 @@ function Grave({myGrave}){
             <RiCrossFill size={40}/>
             <h2><a href={hrefName}>{myGrave.name}</a></h2>         
             <p className="typeStyle">{myGrave.type}</p>
-            <p>{myGrave.dateLaunch}  -  {myGrave.dateDefunct}</p>
+            <p className="dateStyles">{myGrave.dateLaunch}  -  {myGrave.dateDefunct}</p>
             <p>{myGrave.focus}</p>
         </div>
         </>

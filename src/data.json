@@ -39,7 +39,7 @@
       "id": 4,
       "name": "AIM",
       "type": "Instant messaging",
-      "focus": "Used the proprietary OSCAR instant messaging protocol and the TOC protocol to allow users to communicate in real time",
+      "focus": "Allow users to communicate in real time",
       "link": "https://en.wikipedia.org/wiki/AIM_(software)",
       "dateLaunch": "1997",
       "dateDefunct": "2017"
@@ -55,7 +55,7 @@
     },
     {
       "id": 6,
-      "name": "Amina – Chechen Republic Online",
+      "name": "Amina",
       "type": "Blog",
       "focus": "Chechen diaspora community",
       "link": "https://en.wikipedia.org/wiki/Amina_-_Chechen_Republic_Online",
@@ -416,7 +416,7 @@
     {
       "id": 46,
       "name": "Foodie.fm",
-      "type": "",
+      "type": "Online Shopping",
       "focus": "Grocery shopping and recipe discovery",
       "link": "https://en.wikipedia.org/wiki/Foodie.fm",
       "dateLaunch": "2009",
@@ -668,7 +668,7 @@
     {
       "id": 74,
       "name": "iWiW",
-      "type": "",
+      "type": "Blog",
       "focus": "Hungarian social networking",
       "link": "https://en.wikipedia.org/wiki/iWiW",
       "dateLaunch": "2002",
@@ -893,8 +893,8 @@
     {
       "id": 99,
       "name": "Mixx",
-      "type": "Social media platform where peers could publish or find material based on their interests and location",
-      "focus": "Blogs",
+      "type": "Blogs",
+      "focus": "Platform where peers could publish or find material based on their interests and location",
       "link": "https://en.wikipedia.org/wiki/Mixx",
       "dateLaunch": "2007",
       "dateDefunct": "2011"
@@ -1064,11 +1064,11 @@
     {
       "id": 118,
       "name": "OUTeverywhere",
-      "type": "",
-      "focus": "Gay/LGBTQ community",
+      "type": "Blog/Messaging",
+      "focus": "Website providing an online LGBT community, chiefly in the UK",
       "link": "https://en.wikipedia.org/wiki/OUTeverywhere",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "1995",
+      "dateDefunct": "2019"
     },
     {
       "id": 119,
@@ -1659,7 +1659,7 @@
       "id": 184,
       "name": "Yahoo! Kickstart",
       "type": "Networking",
-      "focus": "professional network for college students, recent graduates, employers and alumni",
+      "focus": "Professional network for college students, recent graduates, employers and alumni",
       "link": "https://en.wikipedia.org/wiki/Yahoo!_Kickstart",
       "dateLaunch": "2007",
       "dateDefunct": "2008"
@@ -1694,11 +1694,11 @@
     {
       "id": 188,
       "name": "Yo",
-      "type": "",
-      "focus": "Quick connections",
+      "type": "Messaging",
+      "focus": "The application's only function was to send the user's friends the word \"yo\"",
       "link": "https://en.wikipedia.org/wiki/Yo_(app)",
-      "dateLaunch": "??",
-      "dateDefunct": "??"
+      "dateLaunch": "2014",
+      "dateDefunct": "2016"
     },
     {
       "id": 189,
