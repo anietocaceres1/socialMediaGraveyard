@@ -27,3 +27,9 @@
     letter-spacing: 2px;
     word-spacing: 7px; 
 }
+.paginationControls{
+    display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    gap: 0.5rem;             /* Espacio entre botones, ajusta según necesites */
+    margin-top: 30px;
+}
