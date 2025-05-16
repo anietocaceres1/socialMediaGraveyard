@@ -1,8 +1,9 @@
-#root{
+#root {
     letter-spacing: 1px;
 
 }
-.typeStyle{
+
+.typeStyle {
     display: inline-block;
     margin: auto;
     background-color: whitesmoke;
@@ -20,16 +21,51 @@
     font-weight: 600;
     letter-spacing: 0.1px;
 }
-.dateStyles{
+
+.dateStyles {
     font-style: italic;
     font-size: 15px;
     font-weight: 300;
     letter-spacing: 2px;
-    word-spacing: 7px; 
+    word-spacing: 7px;
 }
-.paginationControls{
+
+.paginationControls {
     display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    gap: 0.5rem;             /* Espacio entre botones, ajusta según necesites */
+    justify-content: center;
+    /* Centra horizontalmente */
+    gap: 0.5rem;
+    /* Espacio entre botones, ajusta según necesites */
     margin-top: 30px;
+}
+
+
+input {
+    display: block;
+    /* Convierte el input en un elemento de bloque */
+    margin-left: auto;
+    /* Empuja el margen izquierdo automáticamente */
+    margin-right: auto;
+    /* Empuja el margen derecho automáticamente */
+    margin-bottom: 20px;
+    /* O de forma abreviada: */
+    /* margin: 0 auto; */
+    /* Estilo */
+    padding: 10px;
+    font-size: 16px;
+    width: 300px;
+    background-color: transparent;
+    /* Quita el fondo */
+    color: white;
+    /* Establece el color del texto en blanco */
+    border: none;
+    /* Elimina todos los bordes */
+    border-bottom: 1px solid white;
+    /* Añade un borde blanco de 1px solo en la parte inferior */
+}
+
+input:focus {
+    outline: none;
+    /* Elimina el contorno predeterminado */
+    /* Revertir cualquier otro estilo que se hubiera aplicado en :focus */
 }

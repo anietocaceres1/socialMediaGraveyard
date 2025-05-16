@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState, useEffect } from 'react';
 import './GraveStyles.css';
 import usePagination from "../components/UsePaginator.jsx";
 import { RiCrossFill } from "react-icons/ri";
@@ -30,23 +30,44 @@ function Grave({ myGrave }) {
 }
 
 function GraveYard({ getGraves }) {
+    const [searchTerm, setSearchTerm] = useState('');
     const itemsPerPage = 12;
-    const { 
-        currentData, 
-        currentPage, 
-        totalPages, 
-        nextPage, 
-        prevPage, 
+
+    const filteredData = searchTerm
+        ? getGraves.filter((grave) =>
+            grave.name.toLowerCase().includes(searchTerm.toLowerCase())
+        )
+        : getGraves;
+
+    const {
+        currentData,
+        currentPage,
+        totalPages,
+        nextPage,
+        prevPage,
         firstPage,
         lastPage,
-        goToPage, 
-        getPageNumbers 
-    } = usePagination(getGraves, itemsPerPage);
+        goToPage,
+        getPageNumbers
+    } = usePagination(filteredData, itemsPerPage);
 
     const visiblePages = getPageNumbers(5); // Ajusta el número de páginas visibles
 
+    const handleSearchChange = (event) => {
+        setSearchTerm(event.target.value);
+        goToPage(1); // Resetear a la primera página al cambiar el término de búsqueda
+    };
+
     return (
         <div>
+
+            <input
+                type="text"
+                placeholder="Buscar por nombre..."
+                value={searchTerm}
+                onChange={handleSearchChange}
+                className='searchBar'
+            />
             <div className="graveYard">
                 {currentData.map((grave) => (
                     <div key={grave.id}>
@@ -56,38 +77,39 @@ function GraveYard({ getGraves }) {
             </div>
 
             {/* Controles de Paginado */}
-            <div className="paginationControls">
 
-                {currentPage >= 4 &&(
-                    <button onClick={firstPage} disabled={currentPage === 1}>
-                        {"1..."}
+                <div className="paginationControls">
+
+                    {currentPage >= 4 && (
+                        <button onClick={firstPage} disabled={currentPage === 1}>
+                            {"1..."}
+                        </button>
+                    )}
+
+                    <button onClick={prevPage} disabled={currentPage === 1}>
+                        {"<"}
                     </button>
-                )}
 
-                <button onClick={prevPage} disabled={currentPage === 1}>
-                    {"<"}
-                </button>
+                    {visiblePages.map((page) => (
+                        <button
+                            key={page}
+                            onClick={() => goToPage(page)}
+                            className={currentPage === page ? "active" : ""}
+                        >
+                            {page}
+                        </button>
+                    ))}
 
-                {visiblePages.map((page) => (
-                    <button
-                        key={page}
-                        onClick={() => goToPage(page)}
-                        className={currentPage === page ? "active" : ""}
-                    >
-                        {page}
+                    <button onClick={nextPage} disabled={currentPage === totalPages}>
+                        {">"}
                     </button>
-                ))}
+                    {currentPage <= (totalPages - 3) && (
+                        <button onClick={lastPage} disabled={currentPage === totalPages}>
+                            {"..." + totalPages}
+                        </button>
+                    )}
 
-                <button onClick={nextPage} disabled={currentPage === totalPages}>
-                    {">"}
-                </button>
-                {currentPage <= (totalPages - 3) &&(
-                    <button onClick={lastPage} disabled={currentPage === totalPages}>
-                        {"..." + totalPages}
-                    </button>
-                )}
-
-            </div>
+                </div>
         </div>
     );
 }
