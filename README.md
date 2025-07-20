@@ -2,6 +2,8 @@
 
 This web is to show all the Social Networks that are not longer on the Word Wide Web.
 
+
+
 All the information is in the file data.json, you can add any information following the following strocture:
 
     {
@@ -14,6 +16,7 @@ All the information is in the file data.json, you can add any information follow
       "dateDefunct": "2014"
     },
 
+
 - Id: Id of the web inside the json
 - name: oficial name of the Website 
 - Type: type of the social network, what's was it's oficial function. 
@@ -22,3 +25,5 @@ All the information is in the file data.json, you can add any information follow
     - Messanging: Web services that allow users to talk to each other using messages. Ex: Messenger
     - Chat: Offers private and public text or video chatting services.
     - Video Sharing: Focused on posting and sharing videos.
+
+❗ If you want to add new data to the .json or modify data, please make a fork of the project and then a pull request with me as a reviewer. Thank you!
