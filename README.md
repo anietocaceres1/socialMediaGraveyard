@@ -26,4 +26,8 @@ All the information is in the file data.json, you can add any information follow
     - Chat: Offers private and public text or video chatting services.
     - Video Sharing: Focused on posting and sharing videos.
 
-❗ If you want to add new data to the .json or modify data, please make a fork of the project and then a pull request with me as a reviewer. Thank you!
+This website uses information collected from Wikipedia as its basis, but information about this topic is scarce, so any new data is welcome.
+
+❗ If you want to add new data to the .json or modify data, please make a fork of the project and then a pull request with me as a reviewer. 
+
+Thank you!
